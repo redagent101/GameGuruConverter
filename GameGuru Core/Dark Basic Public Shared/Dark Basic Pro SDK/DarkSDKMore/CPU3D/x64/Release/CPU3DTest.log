@@ -1,0 +1,6 @@
+﻿  stdafx.cpp
+  CPU3D.cpp
+  cThread.cpp
+  SoftwareCulling.cpp
+  Generating Code...
+  CPU3DTest.vcxproj -> D:\DEVS\GameGuruConverter\GameGuru Core\Dark Basic Public Shared\Lib64\CPU3D.lib

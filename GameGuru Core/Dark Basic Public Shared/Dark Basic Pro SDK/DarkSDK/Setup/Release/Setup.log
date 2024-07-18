@@ -1,0 +1,10 @@
+﻿  CError.cpp
+  CGfxC.cpp
+D:\DEV\GameGuruConverter - reduced - x64\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\Setup\CGfxC.cpp(676,10): warning C4244: '*=': conversion from 'float' to 'long', possible loss of data
+D:\DEV\GameGuruConverter - reduced - x64\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\Setup\CGfxC.cpp(677,12): warning C4244: '*=': conversion from 'float' to 'long', possible loss of data
+D:\DEV\GameGuruConverter - reduced - x64\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\Setup\CGfxC.cpp(678,11): warning C4244: '*=': conversion from 'float' to 'long', possible loss of data
+D:\DEV\GameGuruConverter - reduced - x64\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\Setup\CGfxC.cpp(2535,16): warning C4244: '=': conversion from 'UINT' to 'FLOAT', possible loss of data
+D:\DEV\GameGuruConverter - reduced - x64\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\Setup\CGfxC.cpp(2536,17): warning C4244: '=': conversion from 'UINT' to 'FLOAT', possible loss of data
+  globstruct.cpp
+  Generating Code...
+  Setup.vcxproj -> D:\DEV\GameGuruConverter - reduced - x64\GameGuru Core\Dark Basic Public Shared\Lib\Setup.lib

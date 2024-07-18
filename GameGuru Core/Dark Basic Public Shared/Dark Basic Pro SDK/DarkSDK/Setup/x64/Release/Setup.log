@@ -1,0 +1,20 @@
+﻿  CError.cpp
+  CGfxC.cpp
+D:\DEVS\GameGuruConverter\GameGuru Core\SDK\DirectX\globstruct.h(340,60): warning C4267: 'argument': conversion from 'size_t' to 'DWORD', possible loss of data
+D:\DEVS\GameGuruConverter\GameGuru Core\SDK\DirectX\globstruct.h(340,60): warning C4267: 'argument': conversion from 'size_t' to 'DWORD', possible loss of data
+D:\DEVS\GameGuruConverter\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\Sprites\cspritemanagerc.h(35,67): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+D:\DEVS\GameGuruConverter\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\Setup\CGfxC.cpp(676,10): warning C4244: '*=': conversion from 'float' to 'long', possible loss of data
+D:\DEVS\GameGuruConverter\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\Setup\CGfxC.cpp(677,12): warning C4244: '*=': conversion from 'float' to 'long', possible loss of data
+D:\DEVS\GameGuruConverter\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\Setup\CGfxC.cpp(678,11): warning C4244: '*=': conversion from 'float' to 'long', possible loss of data
+D:\DEVS\GameGuruConverter\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\Setup\CGfxC.cpp(889,14): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\DEVS\GameGuruConverter\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\Setup\CGfxC.cpp(957,37): warning C4312: 'type cast': conversion from 'DWORD' to 'LPSTR' of greater size
+D:\DEVS\GameGuruConverter\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\Setup\CGfxC.cpp(1038,15): warning C4267: 'initializing': conversion from 'size_t' to 'DWORD', possible loss of data
+D:\DEVS\GameGuruConverter\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\Setup\CGfxC.cpp(1104,36): warning C4311: 'type cast': pointer truncation from 'HICON' to 'LONG'
+D:\DEVS\GameGuruConverter\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\Setup\CGfxC.cpp(1104,36): warning C4302: 'type cast': truncation from 'HICON' to 'LONG'
+D:\DEVS\GameGuruConverter\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\Setup\CGfxC.cpp(2535,16): warning C4244: '=': conversion from 'UINT' to 'FLOAT', possible loss of data
+D:\DEVS\GameGuruConverter\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\Setup\CGfxC.cpp(2536,17): warning C4244: '=': conversion from 'UINT' to 'FLOAT', possible loss of data
+D:\DEVS\GameGuruConverter\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\Setup\CGfxC.cpp(3642,19): warning C4267: 'initializing': conversion from 'size_t' to 'DWORD', possible loss of data
+  globstruct.cpp
+D:\DEVS\GameGuruConverter\GameGuru Core\SDK\DirectX\globstruct.h(340,60): warning C4267: 'argument': conversion from 'size_t' to 'DWORD', possible loss of data
+  Generating Code...
+  Setup.vcxproj -> D:\DEVS\GameGuruConverter\GameGuru Core\Dark Basic Public Shared\Lib64\Setup.lib

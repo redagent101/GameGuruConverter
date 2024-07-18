@@ -1,0 +1,8 @@
+﻿  CBasic2DC.cpp
+D:\DEVS\GameGuruConverter\GameGuru Core\SDK\DirectX\globstruct.h(340,60): warning C4267: 'argument': conversion from 'size_t' to 'DWORD', possible loss of data
+D:\DEVS\GameGuruConverter\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\Basic2D\CBasic2DC.cpp(43,9): warning C4311: 'type cast': pointer truncation from 'DWORD *' to 'DWORD'
+D:\DEVS\GameGuruConverter\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\Basic2D\CBasic2DC.cpp(43,9): warning C4302: 'type cast': truncation from 'DWORD *' to 'DWORD'
+  CError.cpp
+D:\DEVS\GameGuruConverter\GameGuru Core\SDK\DirectX\globstruct.h(340,60): warning C4267: 'argument': conversion from 'size_t' to 'DWORD', possible loss of data
+  Generating Code...
+  Basic2D.vcxproj -> D:\DEVS\GameGuruConverter\GameGuru Core\Dark Basic Public Shared\Lib64\Basic2D.lib

@@ -1,0 +1,7 @@
+﻿  SteamCheckForWorkshop.cpp
+  CError.cpp
+  CBitmapC.cpp
+D:\DEV\GameGuruConverter - reduced - x64\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\Bitmap\CBitmapC.cpp(266,55): warning C4838: conversion from 'int' to 'UINT' requires a narrowing conversion
+D:\DEV\GameGuruConverter - reduced - x64\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\Bitmap\CBitmapC.cpp(266,63): warning C4838: conversion from 'int' to 'UINT' requires a narrowing conversion
+  Generating Code...
+  Bitmap.vcxproj -> D:\DEV\GameGuruConverter - reduced - x64\GameGuru Core\Dark Basic Public Shared\Lib\Bitmap.lib

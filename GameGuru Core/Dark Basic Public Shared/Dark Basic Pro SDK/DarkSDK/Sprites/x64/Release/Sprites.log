@@ -1,0 +1,25 @@
+﻿  SteamCheckForWorkshop.cpp
+  CError.cpp
+D:\DEVS\GameGuruConverter\GameGuru Core\SDK\DirectX\globstruct.h(340,60): warning C4267: 'argument': conversion from 'size_t' to 'DWORD', possible loss of data
+  CSpriteManagerC.cpp
+D:\DEVS\GameGuruConverter\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\Sprites\cspritemanagerc.h(35,67): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+D:\DEVS\GameGuruConverter\GameGuru Core\SDK\DirectX\globstruct.h(340,60): warning C4267: 'argument': conversion from 'size_t' to 'DWORD', possible loss of data
+D:\DEVS\GameGuruConverter\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\Sprites\CSpriteManagerC.cpp(258,64): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\DEVS\GameGuruConverter\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\Sprites\CSpriteManagerC.cpp(262,35): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+D:\DEVS\GameGuruConverter\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\Sprites\CSpriteManagerC.cpp(506,63): warning C4244: 'argument': conversion from 'DWORD' to 'float', possible loss of data
+D:\DEVS\GameGuruConverter\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\Sprites\CSpriteManagerC.cpp(506,51): warning C4244: 'argument': conversion from 'DWORD' to 'float', possible loss of data
+D:\DEVS\GameGuruConverter\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\Sprites\CSpriteManagerC.cpp(511,22): warning C4244: '=': conversion from 'DWORD' to 'FLOAT', possible loss of data
+D:\DEVS\GameGuruConverter\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\Sprites\CSpriteManagerC.cpp(512,22): warning C4244: '=': conversion from 'DWORD' to 'FLOAT', possible loss of data
+  CSpritesC.cpp
+D:\DEVS\GameGuruConverter\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\Sprites\cspritemanagerc.h(35,67): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+D:\DEVS\GameGuruConverter\GameGuru Core\SDK\DirectX\globstruct.h(340,60): warning C4267: 'argument': conversion from 'size_t' to 'DWORD', possible loss of data
+D:\DEVS\GameGuruConverter\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\Sprites\CSpritesC.cpp(559,40): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\DEVS\GameGuruConverter\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\Sprites\CSpritesC.cpp(561,40): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\DEVS\GameGuruConverter\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\Sprites\CSpritesC.cpp(566,40): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\DEVS\GameGuruConverter\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\Sprites\CSpritesC.cpp(568,40): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\DEVS\GameGuruConverter\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\Sprites\CSpritesC.cpp(574,40): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\DEVS\GameGuruConverter\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\Sprites\CSpritesC.cpp(575,40): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\DEVS\GameGuruConverter\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\Sprites\CSpritesC.cpp(581,40): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\DEVS\GameGuruConverter\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\Sprites\CSpritesC.cpp(582,40): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Generating Code...
+  Sprites.vcxproj -> D:\DEVS\GameGuruConverter\GameGuru Core\Dark Basic Public Shared\Lib64\Sprites.lib

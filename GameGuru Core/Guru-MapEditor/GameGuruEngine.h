@@ -8,7 +8,7 @@ extern bool g_bCascadeQuitFlag;
 
 // Main command headers
 #include "CGfxC.h"
-#include "CObjectsC.h"
+//#include "CObjectsC.h"
 #include "CCameraC.h"
 #include "CImageC.h"
 #include "cVectorC.h"
@@ -18,7 +18,7 @@ extern bool g_bCascadeQuitFlag;
 #include "CSoundC.h"
 #include "CBasic2DC.h"
 #include "CBitmapC.h"
-#include "CAnimation.h"
+//#include "CAnimation.h"
 #include "CFileC.h"
 #include "CMemblocks.h"
 #include "CFTPC.h"
@@ -26,11 +26,11 @@ extern bool g_bCascadeQuitFlag;
 #include "CTextC.h"
 #include "CSystemC.h"
 #include "BulletPhysics.H"
-#include "BlitzTerrain.H"
-#include "DarkAI.H"
+//#include "BlitzTerrain.H"
+//#include "DarkAI.H"
 #include "SoftwareCulling.h"
-#include "DarkLUA.h"
+//#include "DarkLUA.h"
 #include "SimonReloaded.h"
-#include "LightMapper.h"
+//#include "LightMapper.h"
 #include "Enchancements.h"
 

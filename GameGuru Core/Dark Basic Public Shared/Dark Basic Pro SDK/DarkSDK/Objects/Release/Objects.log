@@ -1,0 +1,132 @@
+﻿  SteamCheckForWorkshop.cpp
+  DBO2X.cpp
+D:\DEV\GameGuruConverter - reduced - x64\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\DBOFormat\DBO2X.cpp(176,4): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\DEV\GameGuruConverter - reduced - x64\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\DBOFormat\DBO2X.cpp(439,23): warning C4018: '<': signed/unsigned mismatch
+D:\DEV\GameGuruConverter - reduced - x64\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\DBOFormat\DBO2X.cpp(444,12): warning C4018: '<': signed/unsigned mismatch
+D:\DEV\GameGuruConverter - reduced - x64\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\DBOFormat\DBO2X.cpp(480,23): warning C4018: '<': signed/unsigned mismatch
+D:\DEV\GameGuruConverter - reduced - x64\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\DBOFormat\DBO2X.cpp(486,12): warning C4018: '<': signed/unsigned mismatch
+D:\DEV\GameGuruConverter - reduced - x64\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\DBOFormat\DBO2X.cpp(525,23): warning C4018: '<': signed/unsigned mismatch
+D:\DEV\GameGuruConverter - reduced - x64\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\DBOFormat\DBO2X.cpp(530,12): warning C4018: '<': signed/unsigned mismatch
+D:\DEV\GameGuruConverter - reduced - x64\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\DBOFormat\DBO2X.cpp(256,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\DEV\GameGuruConverter - reduced - x64\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\DBOFormat\DBO2X.cpp(445,7): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\DEV\GameGuruConverter - reduced - x64\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\DBOFormat\DBO2X.cpp(447,7): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\DEV\GameGuruConverter - reduced - x64\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\DBOFormat\DBO2X.cpp(458,8): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\DEV\GameGuruConverter - reduced - x64\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\DBOFormat\DBO2X.cpp(460,8): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\DEV\GameGuruConverter - reduced - x64\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\DBOFormat\DBO2X.cpp(487,7): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\DEV\GameGuruConverter - reduced - x64\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\DBOFormat\DBO2X.cpp(489,7): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\DEV\GameGuruConverter - reduced - x64\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\DBOFormat\DBO2X.cpp(500,8): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\DEV\GameGuruConverter - reduced - x64\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\DBOFormat\DBO2X.cpp(502,8): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\DEV\GameGuruConverter - reduced - x64\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\DBOFormat\DBO2X.cpp(531,7): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\DEV\GameGuruConverter - reduced - x64\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\DBOFormat\DBO2X.cpp(533,7): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\DEV\GameGuruConverter - reduced - x64\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\DBOFormat\DBO2X.cpp(918,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\DEV\GameGuruConverter - reduced - x64\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\DBOFormat\DBO2X.cpp(1089,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\DEV\GameGuruConverter - reduced - x64\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\DBOFormat\DBO2X.cpp(1107,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\DEV\GameGuruConverter - reduced - x64\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\DBOFormat\DBO2X.cpp(1114,3): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\DEV\GameGuruConverter - reduced - x64\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\DBOFormat\DBO2X.cpp(1117,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\DEV\GameGuruConverter - reduced - x64\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\DBOFormat\DBO2X.cpp(1124,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  DBOAssImp.cpp
+  CObjectManagerC.cpp
+D:\DEV\GameGuruConverter - reduced - x64\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\Objects\ShadowMapping\cShadowMaps.h(377,34): warning C4244: '=': conversion from 'unsigned long' to 'float', possible loss of data
+D:\DEV\GameGuruConverter - reduced - x64\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\Objects\ShadowMapping\cShadowMaps.h(378,37): warning C4244: '=': conversion from 'unsigned long' to 'float', possible loss of data
+D:\DEV\GameGuruConverter - reduced - x64\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\Objects\ShadowMapping\cShadowMaps.h(379,37): warning C4244: '=': conversion from 'unsigned long' to 'float', possible loss of data
+D:\DEV\GameGuruConverter - reduced - x64\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\Objects\ShadowMapping\cShadowMaps.h(380,37): warning C4244: '=': conversion from 'unsigned long' to 'float', possible loss of data
+D:\DEV\GameGuruConverter - reduced - x64\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\Objects\CObjectManagerDBP.cpp(559,9): warning C4101: 'numElementsThis': unreferenced local variable
+D:\DEV\GameGuruConverter - reduced - x64\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\Objects\CObjectManagerDBP.cpp(560,20): warning C4101: 'VertexDecFromThisBuffer': unreferenced local variable
+D:\DEV\GameGuruConverter - reduced - x64\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\Objects\CObjectManagerDBP.cpp(3082,39): warning C4838: conversion from 'int' to 'FLOAT' requires a narrowing conversion
+D:\DEV\GameGuruConverter - reduced - x64\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\Objects\CObjectManagerDBP.cpp(3082,39): warning C4244: 'initializing': conversion from 'int' to 'FLOAT', possible loss of data
+D:\DEV\GameGuruConverter - reduced - x64\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\Objects\CObjectManagerDBP.cpp(3082,46): warning C4838: conversion from 'int' to 'FLOAT' requires a narrowing conversion
+D:\DEV\GameGuruConverter - reduced - x64\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\Objects\CObjectManagerDBP.cpp(3082,46): warning C4244: 'initializing': conversion from 'int' to 'FLOAT', possible loss of data
+D:\DEV\GameGuruConverter - reduced - x64\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\Objects\CObjectManagerDBP.cpp(3108,40): warning C4838: conversion from 'UINT' to 'FLOAT' requires a narrowing conversion
+D:\DEV\GameGuruConverter - reduced - x64\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\Objects\CObjectManagerDBP.cpp(3108,40): warning C4244: 'initializing': conversion from 'UINT' to 'FLOAT', possible loss of data
+D:\DEV\GameGuruConverter - reduced - x64\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\Objects\CObjectManagerDBP.cpp(3108,52): warning C4838: conversion from 'UINT' to 'FLOAT' requires a narrowing conversion
+D:\DEV\GameGuruConverter - reduced - x64\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\Objects\CObjectManagerDBP.cpp(3108,52): warning C4244: 'initializing': conversion from 'UINT' to 'FLOAT', possible loss of data
+D:\DEV\GameGuruConverter - reduced - x64\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\Objects\CObjectManagerDBP.cpp(3476,27): warning C4244: 'initializing': conversion from 'DWORD' to 'float', possible loss of data
+D:\DEV\GameGuruConverter - reduced - x64\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\Objects\CObjectManagerDBP.cpp(3004,33): warning C4101: 'varDesc': unreferenced local variable
+D:\DEV\GameGuruConverter - reduced - x64\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\Objects\CObjectManagerDBP.cpp(4169,23): warning C4018: '<': signed/unsigned mismatch
+D:\DEV\GameGuruConverter - reduced - x64\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\Objects\CObjectManagerDBP.cpp(5747,63): warning C4101: 'dwOldJetpackBoneShaderPtr': unreferenced local variable
+D:\DEV\GameGuruConverter - reduced - x64\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\Objects\CObjectManagerDBP.cpp(5747,10): warning C4101: 'dwOldWeaponBasicShaderPtr': unreferenced local variable
+D:\DEV\GameGuruConverter - reduced - x64\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\Objects\CObjectManagerDBP.cpp(5747,37): warning C4101: 'dwOldWeaponBoneShaderPtr': unreferenced local variable
+  cOcclusion.cpp
+  cShadowMaps.cpp
+D:\DEV\GameGuruConverter - reduced - x64\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\Objects\ShadowMapping\cShadowMaps.h(377,34): warning C4244: '=': conversion from 'unsigned long' to 'float', possible loss of data
+D:\DEV\GameGuruConverter - reduced - x64\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\Objects\ShadowMapping\cShadowMaps.h(378,37): warning C4244: '=': conversion from 'unsigned long' to 'float', possible loss of data
+D:\DEV\GameGuruConverter - reduced - x64\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\Objects\ShadowMapping\cShadowMaps.h(379,37): warning C4244: '=': conversion from 'unsigned long' to 'float', possible loss of data
+D:\DEV\GameGuruConverter - reduced - x64\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\Objects\ShadowMapping\cShadowMaps.h(380,37): warning C4244: '=': conversion from 'unsigned long' to 'float', possible loss of data
+D:\DEV\GameGuruConverter - reduced - x64\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\Objects\ShadowMapping\cShadowMaps.cpp(906,51): warning C4244: '=': conversion from 'int' to 'FLOAT', possible loss of data
+D:\DEV\GameGuruConverter - reduced - x64\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\Objects\ShadowMapping\cShadowMaps.cpp(907,52): warning C4244: '=': conversion from 'int' to 'FLOAT', possible loss of data
+D:\DEV\GameGuruConverter - reduced - x64\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\Objects\ShadowMapping\cShadowMaps.cpp(1236,73): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+  DepthTexture.cpp
+D:\DEV\GameGuruConverter - reduced - x64\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\Objects\ShadowMapping\DepthTexture.cpp(17,38): warning C4838: conversion from 'int' to 'UINT' requires a narrowing conversion
+D:\DEV\GameGuruConverter - reduced - x64\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\Objects\ShadowMapping\DepthTexture.cpp(17,45): warning C4838: conversion from 'int' to 'UINT' requires a narrowing conversion
+  GameFXCalls.cpp
+  Generating Code...
+D:\DEV\GameGuruConverter - reduced - x64\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\Objects\ShadowMapping\cShadowMaps.h(410): warning C4715: 'XMVectorGetByIndex': not all control paths return a value
+  CObjectsC.cpp
+D:\DEV\GameGuruConverter - reduced - x64\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\Objects\ShadowMapping\cShadowMaps.h(377,34): warning C4244: '=': conversion from 'unsigned long' to 'float', possible loss of data
+D:\DEV\GameGuruConverter - reduced - x64\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\Objects\ShadowMapping\cShadowMaps.h(378,37): warning C4244: '=': conversion from 'unsigned long' to 'float', possible loss of data
+D:\DEV\GameGuruConverter - reduced - x64\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\Objects\ShadowMapping\cShadowMaps.h(379,37): warning C4244: '=': conversion from 'unsigned long' to 'float', possible loss of data
+D:\DEV\GameGuruConverter - reduced - x64\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\Objects\ShadowMapping\cShadowMaps.h(380,37): warning C4244: '=': conversion from 'unsigned long' to 'float', possible loss of data
+D:\DEV\GameGuruConverter - reduced - x64\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\Objects\CObjectsC.cpp(314,89): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\DEV\GameGuruConverter - reduced - x64\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\Objects\CObjectsC.cpp(1599,29): warning C4244: '=': conversion from 'float' to 'DWORD', possible loss of data
+D:\DEV\GameGuruConverter - reduced - x64\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\Objects\CObjectsC.cpp(2603,32): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\DEV\GameGuruConverter - reduced - x64\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\Objects\CObjectsC.cpp(2603,25): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\DEV\GameGuruConverter - reduced - x64\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\Objects\CObjectsC.cpp(2706,22): warning C4018: '<': signed/unsigned mismatch
+D:\DEV\GameGuruConverter - reduced - x64\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\Objects\CObjectsC.cpp(3532,13): warning C4244: 'initializing': conversion from 'float' to 'DWORD', possible loss of data
+D:\DEV\GameGuruConverter - reduced - x64\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\Objects\CObjectsC.cpp(3533,13): warning C4244: 'initializing': conversion from 'float' to 'DWORD', possible loss of data
+D:\DEV\GameGuruConverter - reduced - x64\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\Objects\CObjectsC.cpp(3534,13): warning C4244: 'initializing': conversion from 'float' to 'DWORD', possible loss of data
+D:\DEV\GameGuruConverter - reduced - x64\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\Objects\CObjectsC.cpp(6183,29): warning C4018: '<': signed/unsigned mismatch
+D:\DEV\GameGuruConverter - reduced - x64\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\Objects\CObjectsC.cpp(6807,13): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\DEV\GameGuruConverter - reduced - x64\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\Objects\CObjectsC.cpp(6807,28): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\DEV\GameGuruConverter - reduced - x64\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\Objects\CObjectsC.cpp(8148,40): warning C4018: '<': signed/unsigned mismatch
+D:\DEV\GameGuruConverter - reduced - x64\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\Objects\CObjectsC.cpp(8963,16): warning C4244: 'initializing': conversion from 'DWORD' to 'float', possible loss of data
+D:\DEV\GameGuruConverter - reduced - x64\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\Objects\CObjectsC.cpp(8964,17): warning C4244: 'initializing': conversion from 'DWORD' to 'float', possible loss of data
+D:\DEV\GameGuruConverter - reduced - x64\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\Objects\CObjectsC.cpp(8967,10): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\DEV\GameGuruConverter - reduced - x64\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\Objects\CObjectsC.cpp(8967,35): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\DEV\GameGuruConverter - reduced - x64\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\Objects\CObjectsC.cpp(9052,16): warning C4244: 'initializing': conversion from 'DWORD' to 'float', possible loss of data
+D:\DEV\GameGuruConverter - reduced - x64\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\Objects\CObjectsC.cpp(9053,17): warning C4244: 'initializing': conversion from 'DWORD' to 'float', possible loss of data
+D:\DEV\GameGuruConverter - reduced - x64\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\Objects\CObjectsC.cpp(9056,10): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\DEV\GameGuruConverter - reduced - x64\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\Objects\CObjectsC.cpp(9056,35): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\DEV\GameGuruConverter - reduced - x64\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\Objects\CObjectsC.cpp(9151,16): warning C4244: 'initializing': conversion from 'DWORD' to 'float', possible loss of data
+D:\DEV\GameGuruConverter - reduced - x64\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\Objects\CObjectsC.cpp(9152,17): warning C4244: 'initializing': conversion from 'DWORD' to 'float', possible loss of data
+D:\DEV\GameGuruConverter - reduced - x64\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\Objects\CObjectsC.cpp(9155,10): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\DEV\GameGuruConverter - reduced - x64\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\Objects\CObjectsC.cpp(9155,35): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\DEV\GameGuruConverter - reduced - x64\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\Objects\CObjectsC.cpp(9473,17): warning C4244: 'initializing': conversion from 'DWORD' to 'float', possible loss of data
+D:\DEV\GameGuruConverter - reduced - x64\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\Objects\CObjectsC.cpp(9474,18): warning C4244: 'initializing': conversion from 'DWORD' to 'float', possible loss of data
+D:\DEV\GameGuruConverter - reduced - x64\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\Objects\CObjectsC.cpp(9477,14): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\DEV\GameGuruConverter - reduced - x64\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\Objects\CObjectsC.cpp(9478,14): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  CommonC.cpp
+  CPositionC.cpp
+D:\DEV\GameGuruConverter - reduced - x64\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\Objects\CPositionC.cpp(801,38): warning C4244: 'return': conversion from 'float' to 'DWORD', possible loss of data
+D:\DEV\GameGuruConverter - reduced - x64\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\Objects\CPositionC.cpp(826,38): warning C4244: 'return': conversion from 'float' to 'DWORD', possible loss of data
+D:\DEV\GameGuruConverter - reduced - x64\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\Objects\CPositionC.cpp(850,38): warning C4244: 'return': conversion from 'float' to 'DWORD', possible loss of data
+D:\DEV\GameGuruConverter - reduced - x64\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\Objects\CPositionC.cpp(861,36): warning C4244: 'return': conversion from 'float' to 'DWORD', possible loss of data
+D:\DEV\GameGuruConverter - reduced - x64\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\Objects\CPositionC.cpp(872,36): warning C4244: 'return': conversion from 'float' to 'DWORD', possible loss of data
+D:\DEV\GameGuruConverter - reduced - x64\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\Objects\CPositionC.cpp(883,36): warning C4244: 'return': conversion from 'float' to 'DWORD', possible loss of data
+  CError.cpp
+  3DCol.cpp
+  cBoxCol.cpp
+  CCollision.cpp
+  PolyPool.cpp
+  DBOBlock.cpp
+  DBOData.cpp
+D:\DEV\GameGuruConverter - reduced - x64\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\SHARED\DBOFORMAT\DBOData.cpp(109,22): warning C4244: '=': conversion from 'float' to 'DWORD', possible loss of data
+  DBOEffects.cpp
+  DBOExternals.cpp
+  DBOFile.cpp
+  DBOFormat.cpp
+D:\DEV\GameGuruConverter - reduced - x64\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\DBOFormat\DBOFormat.cpp(76,21): warning C4018: '<': signed/unsigned mismatch
+D:\DEV\GameGuruConverter - reduced - x64\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\DBOFormat\DBOFormat.cpp(112,21): warning C4018: '<': signed/unsigned mismatch
+D:\DEV\GameGuruConverter - reduced - x64\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\DBOFormat\DBOFormat.cpp(127,21): warning C4018: '<': signed/unsigned mismatch
+D:\DEV\GameGuruConverter - reduced - x64\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\DBOFormat\DBOFormat.cpp(129,10): warning C4018: '<': signed/unsigned mismatch
+D:\DEV\GameGuruConverter - reduced - x64\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\DBOFormat\DBOFormat.cpp(167,21): warning C4018: '<': signed/unsigned mismatch
+D:\DEV\GameGuruConverter - reduced - x64\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\DBOFormat\DBOFormat.cpp(789,5): warning C4554: '|': check operator precedence for possible error; use parentheses to clarify precedence
+D:\DEV\GameGuruConverter - reduced - x64\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\DBOFormat\DBOFormat.cpp(839,35): warning C4838: conversion from 'INT' to 'UINT' requires a narrowing conversion
+D:\DEV\GameGuruConverter - reduced - x64\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\DBOFormat\DBOFormat.cpp(839,42): warning C4838: conversion from 'INT' to 'UINT' requires a narrowing conversion
+D:\DEV\GameGuruConverter - reduced - x64\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\DBOFormat\DBOFormat.cpp(7357,21): warning C4018: '<': signed/unsigned mismatch
+  DBOFrame.cpp
+  DBOMesh.cpp
+  DBORawMesh.cpp
+  NVMeshMenderD3DX.cpp
+  globstruct.cpp
+  Generating Code...
+  Objects.vcxproj -> D:\DEV\GameGuruConverter - reduced - x64\GameGuru Core\Dark Basic Public Shared\Lib\Basic3D.lib

@@ -1,0 +1,283 @@
+﻿cl : command line  warning D9035: option 'Zc:forScope-' has been deprecated and will be removed in a future release
+  btAxisSweep3.cpp
+  btBroadphaseProxy.cpp
+  btCollisionAlgorithm.cpp
+  btDbvt.cpp
+  btDbvtBroadphase.cpp
+  btDispatcher.cpp
+  btMultiSapBroadphase.cpp
+  btOverlappingPairCache.cpp
+  btQuantizedBvh.cpp
+  btSimpleBroadphase.cpp
+  btActivatingCollisionAlgorithm.cpp
+  btBox2dBox2dCollisionAlgorithm.cpp
+  btBoxBoxCollisionAlgorithm.cpp
+  btBoxBoxDetector.cpp
+  btCollisionDispatcher.cpp
+  btCollisionObject.cpp
+  btCollisionWorld.cpp
+D:\DEVS\GameGuruConverter\GameGuru Core\SDK\BULLET\bullet-2.81-rev2613\src\BulletCollision\CollisionDispatch\btCollisionWorld.h(219,47): warning C4311: 'type cast': pointer truncation from 'void *' to 'int'
+D:\DEVS\GameGuruConverter\GameGuru Core\SDK\BULLET\bullet-2.81-rev2613\src\BulletCollision\CollisionDispatch\btCollisionWorld.h(219,47): warning C4302: 'type cast': truncation from 'void *' to 'int'
+D:\DEVS\GameGuruConverter\GameGuru Core\SDK\BULLET\bullet-2.81-rev2613\src\BulletCollision\CollisionDispatch\btCollisionWorld.h(400,59): warning C4311: 'type cast': pointer truncation from 'void *' to 'int'
+D:\DEVS\GameGuruConverter\GameGuru Core\SDK\BULLET\bullet-2.81-rev2613\src\BulletCollision\CollisionDispatch\btCollisionWorld.h(400,59): warning C4302: 'type cast': truncation from 'void *' to 'int'
+  btCompoundCollisionAlgorithm.cpp
+  btConvex2dConvex2dAlgorithm.cpp
+  btConvexConcaveCollisionAlgorithm.cpp
+  Generating Code...
+  Compiling...
+  btConvexConvexAlgorithm.cpp
+D:\DEVS\GameGuruConverter\GameGuru Core\SDK\BULLET\bullet-2.81-rev2613\src\BulletCollision\CollisionDispatch\btConvexConvexAlgorithm.cpp(345,22): warning C4311: 'type cast': pointer truncation from 'void *' to 'int'
+D:\DEVS\GameGuruConverter\GameGuru Core\SDK\BULLET\bullet-2.81-rev2613\src\BulletCollision\CollisionDispatch\btConvexConvexAlgorithm.cpp(345,22): warning C4302: 'type cast': truncation from 'void *' to 'int'
+D:\DEVS\GameGuruConverter\GameGuru Core\SDK\BULLET\bullet-2.81-rev2613\src\BulletCollision\CollisionDispatch\btConvexConvexAlgorithm.cpp(347,74): warning C4312: 'type cast': conversion from 'int' to 'void *' of greater size
+D:\DEVS\GameGuruConverter\GameGuru Core\SDK\BULLET\bullet-2.81-rev2613\src\BulletCollision\CollisionDispatch\btConvexConvexAlgorithm.cpp(353,22): warning C4311: 'type cast': pointer truncation from 'void *' to 'int'
+D:\DEVS\GameGuruConverter\GameGuru Core\SDK\BULLET\bullet-2.81-rev2613\src\BulletCollision\CollisionDispatch\btConvexConvexAlgorithm.cpp(353,22): warning C4302: 'type cast': truncation from 'void *' to 'int'
+D:\DEVS\GameGuruConverter\GameGuru Core\SDK\BULLET\bullet-2.81-rev2613\src\BulletCollision\CollisionDispatch\btConvexConvexAlgorithm.cpp(355,74): warning C4312: 'type cast': conversion from 'int' to 'void *' of greater size
+  btConvexPlaneCollisionAlgorithm.cpp
+  btDefaultCollisionConfiguration.cpp
+  btEmptyCollisionAlgorithm.cpp
+  btGhostObject.cpp
+D:\DEVS\GameGuruConverter\GameGuru Core\SDK\BULLET\bullet-2.81-rev2613\src\BulletCollision\CollisionDispatch\btCollisionWorld.h(219,47): warning C4311: 'type cast': pointer truncation from 'void *' to 'int'
+D:\DEVS\GameGuruConverter\GameGuru Core\SDK\BULLET\bullet-2.81-rev2613\src\BulletCollision\CollisionDispatch\btCollisionWorld.h(219,47): warning C4302: 'type cast': truncation from 'void *' to 'int'
+D:\DEVS\GameGuruConverter\GameGuru Core\SDK\BULLET\bullet-2.81-rev2613\src\BulletCollision\CollisionDispatch\btCollisionWorld.h(400,59): warning C4311: 'type cast': pointer truncation from 'void *' to 'int'
+D:\DEVS\GameGuruConverter\GameGuru Core\SDK\BULLET\bullet-2.81-rev2613\src\BulletCollision\CollisionDispatch\btCollisionWorld.h(400,59): warning C4302: 'type cast': truncation from 'void *' to 'int'
+  btInternalEdgeUtility.cpp
+  btManifoldResult.cpp
+  btSimulationIslandManager.cpp
+D:\DEVS\GameGuruConverter\GameGuru Core\SDK\BULLET\bullet-2.81-rev2613\src\BulletCollision\CollisionDispatch\btCollisionWorld.h(219,47): warning C4311: 'type cast': pointer truncation from 'void *' to 'int'
+D:\DEVS\GameGuruConverter\GameGuru Core\SDK\BULLET\bullet-2.81-rev2613\src\BulletCollision\CollisionDispatch\btCollisionWorld.h(219,47): warning C4302: 'type cast': truncation from 'void *' to 'int'
+D:\DEVS\GameGuruConverter\GameGuru Core\SDK\BULLET\bullet-2.81-rev2613\src\BulletCollision\CollisionDispatch\btCollisionWorld.h(400,59): warning C4311: 'type cast': pointer truncation from 'void *' to 'int'
+D:\DEVS\GameGuruConverter\GameGuru Core\SDK\BULLET\bullet-2.81-rev2613\src\BulletCollision\CollisionDispatch\btCollisionWorld.h(400,59): warning C4302: 'type cast': truncation from 'void *' to 'int'
+  btSphereBoxCollisionAlgorithm.cpp
+  btSphereSphereCollisionAlgorithm.cpp
+  btSphereTriangleCollisionAlgorithm.cpp
+  btUnionFind.cpp
+  SphereTriangleDetector.cpp
+  btBox2dShape.cpp
+  btBoxShape.cpp
+  btBvhTriangleMeshShape.cpp
+  btCapsuleShape.cpp
+  btCollisionShape.cpp
+  btCompoundShape.cpp
+D:\DEVS\GameGuruConverter\GameGuru Core\SDK\BULLET\bullet-2.81-rev2613\src\BulletCollision\CollisionShapes\btCompoundShape.cpp(81,51): warning C4312: 'type cast': conversion from 'int' to 'void *' of greater size
+D:\DEVS\GameGuruConverter\GameGuru Core\SDK\BULLET\bullet-2.81-rev2613\src\BulletCollision\CollisionShapes\btCompoundShape.cpp(313,61): warning C4312: 'type cast': conversion from 'int' to 'void *' of greater size
+  btConcaveShape.cpp
+  Generating Code...
+  Compiling...
+  btConeShape.cpp
+  btConvex2dShape.cpp
+  btConvexHullShape.cpp
+  btConvexInternalShape.cpp
+  btConvexPointCloudShape.cpp
+  btConvexPolyhedron.cpp
+  btConvexShape.cpp
+  btConvexTriangleMeshShape.cpp
+  btCylinderShape.cpp
+  btEmptyShape.cpp
+  btHeightfieldTerrainShape.cpp
+  btMinkowskiSumShape.cpp
+  btMultimaterialTriangleMeshShape.cpp
+  btMultiSphereShape.cpp
+  btOptimizedBvh.cpp
+  btPolyhedralConvexShape.cpp
+  btScaledBvhTriangleMeshShape.cpp
+  btShapeHull.cpp
+  btSphereShape.cpp
+  btStaticPlaneShape.cpp
+  Generating Code...
+  Compiling...
+  btStridingMeshInterface.cpp
+  btTetrahedronShape.cpp
+  btTriangleBuffer.cpp
+  btTriangleCallback.cpp
+  btTriangleIndexVertexArray.cpp
+  btTriangleIndexVertexMaterialArray.cpp
+  btTriangleMesh.cpp
+  btTriangleMeshShape.cpp
+  btUniformScalingShape.cpp
+  btContactProcessing.cpp
+  btGenericPoolAllocator.cpp
+  btGImpactBvh.cpp
+  btGImpactCollisionAlgorithm.cpp
+D:\DEVS\GameGuruConverter\GameGuru Core\SDK\BULLET\bullet-2.81-rev2613\src\BulletCollision\CollisionDispatch\btCollisionWorld.h(219,47): warning C4311: 'type cast': pointer truncation from 'void *' to 'int'
+D:\DEVS\GameGuruConverter\GameGuru Core\SDK\BULLET\bullet-2.81-rev2613\src\BulletCollision\CollisionDispatch\btCollisionWorld.h(219,47): warning C4302: 'type cast': truncation from 'void *' to 'int'
+D:\DEVS\GameGuruConverter\GameGuru Core\SDK\BULLET\bullet-2.81-rev2613\src\BulletCollision\CollisionDispatch\btCollisionWorld.h(400,59): warning C4311: 'type cast': pointer truncation from 'void *' to 'int'
+D:\DEVS\GameGuruConverter\GameGuru Core\SDK\BULLET\bullet-2.81-rev2613\src\BulletCollision\CollisionDispatch\btCollisionWorld.h(400,59): warning C4302: 'type cast': truncation from 'void *' to 'int'
+  btGImpactQuantizedBvh.cpp
+  btGImpactShape.cpp
+D:\DEVS\GameGuruConverter\GameGuru Core\SDK\BULLET\bullet-2.81-rev2613\src\BulletCollision\CollisionDispatch\btCollisionWorld.h(219,47): warning C4311: 'type cast': pointer truncation from 'void *' to 'int'
+D:\DEVS\GameGuruConverter\GameGuru Core\SDK\BULLET\bullet-2.81-rev2613\src\BulletCollision\CollisionDispatch\btCollisionWorld.h(219,47): warning C4302: 'type cast': truncation from 'void *' to 'int'
+D:\DEVS\GameGuruConverter\GameGuru Core\SDK\BULLET\bullet-2.81-rev2613\src\BulletCollision\CollisionDispatch\btCollisionWorld.h(400,59): warning C4311: 'type cast': pointer truncation from 'void *' to 'int'
+D:\DEVS\GameGuruConverter\GameGuru Core\SDK\BULLET\bullet-2.81-rev2613\src\BulletCollision\CollisionDispatch\btCollisionWorld.h(400,59): warning C4302: 'type cast': truncation from 'void *' to 'int'
+  btTriangleShapeEx.cpp
+  gim_box_set.cpp
+  gim_contact.cpp
+  gim_memory.cpp
+  gim_tri_collision.cpp
+  Generating Code...
+  Compiling...
+  btContinuousConvexCollision.cpp
+  btConvexCast.cpp
+  btGjkConvexCast.cpp
+  btGjkEpa2.cpp
+  btGjkEpaPenetrationDepthSolver.cpp
+  btGjkPairDetector.cpp
+  btMinkowskiPenetrationDepthSolver.cpp
+  btPersistentManifold.cpp
+  btPolyhedralContactClipping.cpp
+  btRaycastCallback.cpp
+  btSubSimplexConvexCast.cpp
+  btVoronoiSimplexSolver.cpp
+  btKinematicCharacterController.cpp
+D:\DEVS\GameGuruConverter\GameGuru Core\SDK\BULLET\bullet-2.81-rev2613\src\BulletCollision\CollisionDispatch\btCollisionWorld.h(219,47): warning C4311: 'type cast': pointer truncation from 'void *' to 'int'
+D:\DEVS\GameGuruConverter\GameGuru Core\SDK\BULLET\bullet-2.81-rev2613\src\BulletCollision\CollisionDispatch\btCollisionWorld.h(219,47): warning C4302: 'type cast': truncation from 'void *' to 'int'
+D:\DEVS\GameGuruConverter\GameGuru Core\SDK\BULLET\bullet-2.81-rev2613\src\BulletCollision\CollisionDispatch\btCollisionWorld.h(400,59): warning C4311: 'type cast': pointer truncation from 'void *' to 'int'
+D:\DEVS\GameGuruConverter\GameGuru Core\SDK\BULLET\bullet-2.81-rev2613\src\BulletCollision\CollisionDispatch\btCollisionWorld.h(400,59): warning C4302: 'type cast': truncation from 'void *' to 'int'
+D:\DEVS\GameGuruConverter\GameGuru Core\SDK\BULLET\bullet-2.81-rev2613\src\BulletDynamics\Character\btKinematicCharacterController.cpp(508,24): warning C4311: 'type cast': pointer truncation from 'void *' to 'int'
+D:\DEVS\GameGuruConverter\GameGuru Core\SDK\BULLET\bullet-2.81-rev2613\src\BulletDynamics\Character\btKinematicCharacterController.cpp(508,24): warning C4302: 'type cast': truncation from 'void *' to 'int'
+  btConeTwistConstraint.cpp
+  btContactConstraint.cpp
+D:\DEVS\GameGuruConverter\GameGuru Core\SDK\BULLET\bullet-2.81-rev2613\src\BulletDynamics\ConstraintSolver\btContactConstraint.h(25,28): warning C4359: 'btContactConstraint': Alignment specifier is less than actual alignment (128), and will be ignored.
+  btFixedConstraint.cpp
+  btGearConstraint.cpp
+  btGeneric6DofConstraint.cpp
+  btGeneric6DofSpringConstraint.cpp
+  btHinge2Constraint.cpp
+  Generating Code...
+  Compiling...
+  btHingeConstraint.cpp
+  btPoint2PointConstraint.cpp
+  btSequentialImpulseConstraintSolver.cpp
+  btSliderConstraint.cpp
+  btSolve2LinearConstraint.cpp
+  btTypedConstraint.cpp
+  btUniversalConstraint.cpp
+  btDiscreteDynamicsWorld.cpp
+D:\DEVS\GameGuruConverter\GameGuru Core\SDK\BULLET\bullet-2.81-rev2613\src\BulletCollision\CollisionDispatch\btCollisionWorld.h(219,47): warning C4311: 'type cast': pointer truncation from 'void *' to 'int'
+D:\DEVS\GameGuruConverter\GameGuru Core\SDK\BULLET\bullet-2.81-rev2613\src\BulletCollision\CollisionDispatch\btCollisionWorld.h(219,47): warning C4302: 'type cast': truncation from 'void *' to 'int'
+D:\DEVS\GameGuruConverter\GameGuru Core\SDK\BULLET\bullet-2.81-rev2613\src\BulletCollision\CollisionDispatch\btCollisionWorld.h(400,59): warning C4311: 'type cast': pointer truncation from 'void *' to 'int'
+D:\DEVS\GameGuruConverter\GameGuru Core\SDK\BULLET\bullet-2.81-rev2613\src\BulletCollision\CollisionDispatch\btCollisionWorld.h(400,59): warning C4302: 'type cast': truncation from 'void *' to 'int'
+D:\DEVS\GameGuruConverter\GameGuru Core\SDK\BULLET\bullet-2.81-rev2613\src\BulletDynamics\ConstraintSolver\btContactConstraint.h(25,28): warning C4359: 'btContactConstraint': Alignment specifier is less than actual alignment (128), and will be ignored.
+D:\DEVS\GameGuruConverter\GameGuru Core\SDK\BULLET\bullet-2.81-rev2613\src\BulletDynamics\Dynamics\btDiscreteDynamicsWorld.cpp(428,20): warning C4244: 'initializing': conversion from 'double' to 'btScalar', possible loss of data
+  btRigidBody.cpp
+  btSimpleDynamicsWorld.cpp
+D:\DEVS\GameGuruConverter\GameGuru Core\SDK\BULLET\bullet-2.81-rev2613\src\BulletCollision\CollisionDispatch\btCollisionWorld.h(219,47): warning C4311: 'type cast': pointer truncation from 'void *' to 'int'
+D:\DEVS\GameGuruConverter\GameGuru Core\SDK\BULLET\bullet-2.81-rev2613\src\BulletCollision\CollisionDispatch\btCollisionWorld.h(219,47): warning C4302: 'type cast': truncation from 'void *' to 'int'
+D:\DEVS\GameGuruConverter\GameGuru Core\SDK\BULLET\bullet-2.81-rev2613\src\BulletCollision\CollisionDispatch\btCollisionWorld.h(400,59): warning C4311: 'type cast': pointer truncation from 'void *' to 'int'
+D:\DEVS\GameGuruConverter\GameGuru Core\SDK\BULLET\bullet-2.81-rev2613\src\BulletCollision\CollisionDispatch\btCollisionWorld.h(400,59): warning C4302: 'type cast': truncation from 'void *' to 'int'
+  Bullet-C-API.cpp
+D:\DEVS\GameGuruConverter\GameGuru Core\SDK\BULLET\bullet-2.81-rev2613\src\BulletCollision\CollisionDispatch\btCollisionWorld.h(219,47): warning C4311: 'type cast': pointer truncation from 'void *' to 'int'
+D:\DEVS\GameGuruConverter\GameGuru Core\SDK\BULLET\bullet-2.81-rev2613\src\BulletCollision\CollisionDispatch\btCollisionWorld.h(219,47): warning C4302: 'type cast': truncation from 'void *' to 'int'
+D:\DEVS\GameGuruConverter\GameGuru Core\SDK\BULLET\bullet-2.81-rev2613\src\BulletCollision\CollisionDispatch\btCollisionWorld.h(400,59): warning C4311: 'type cast': pointer truncation from 'void *' to 'int'
+D:\DEVS\GameGuruConverter\GameGuru Core\SDK\BULLET\bullet-2.81-rev2613\src\BulletCollision\CollisionDispatch\btCollisionWorld.h(400,59): warning C4302: 'type cast': truncation from 'void *' to 'int'
+  btRaycastVehicle.cpp
+D:\DEVS\GameGuruConverter\GameGuru Core\SDK\BULLET\bullet-2.81-rev2613\src\BulletCollision\CollisionDispatch\btCollisionWorld.h(219,47): warning C4311: 'type cast': pointer truncation from 'void *' to 'int'
+D:\DEVS\GameGuruConverter\GameGuru Core\SDK\BULLET\bullet-2.81-rev2613\src\BulletCollision\CollisionDispatch\btCollisionWorld.h(219,47): warning C4302: 'type cast': truncation from 'void *' to 'int'
+D:\DEVS\GameGuruConverter\GameGuru Core\SDK\BULLET\bullet-2.81-rev2613\src\BulletCollision\CollisionDispatch\btCollisionWorld.h(400,59): warning C4311: 'type cast': pointer truncation from 'void *' to 'int'
+D:\DEVS\GameGuruConverter\GameGuru Core\SDK\BULLET\bullet-2.81-rev2613\src\BulletCollision\CollisionDispatch\btCollisionWorld.h(400,59): warning C4302: 'type cast': truncation from 'void *' to 'int'
+D:\DEVS\GameGuruConverter\GameGuru Core\SDK\BULLET\bullet-2.81-rev2613\src\BulletDynamics\ConstraintSolver\btContactConstraint.h(25,28): warning C4359: 'btContactConstraint': Alignment specifier is less than actual alignment (128), and will be ignored.
+  btWheelInfo.cpp
+  btAlignedAllocator.cpp
+  btConvexHull.cpp
+  btConvexHullComputer.cpp
+  btGeometryUtil.cpp
+  btPolarDecomposition.cpp
+  btQuickprof.cpp
+  btSerializer.cpp
+  Generating Code...
+  Compiling...
+  btVector3.cpp
+D:\DEVS\GameGuruConverter\GameGuru Core\SDK\BULLET\bullet-2.81-rev2613\src\LinearMath\btVector3.cpp(46,51): warning C4838: conversion from 'int' to 'const unsigned char' requires a narrowing conversion
+D:\DEVS\GameGuruConverter\GameGuru Core\SDK\BULLET\bullet-2.81-rev2613\src\LinearMath\btVector3.cpp(171,42): warning C4267: '=': conversion from 'size_t' to 'long', possible loss of data
+D:\DEVS\GameGuruConverter\GameGuru Core\SDK\BULLET\bullet-2.81-rev2613\src\LinearMath\btVector3.cpp(176,14): warning C4267: '-=': conversion from 'size_t' to 'unsigned long', possible loss of data
+D:\DEVS\GameGuruConverter\GameGuru Core\SDK\BULLET\bullet-2.81-rev2613\src\LinearMath\btVector3.cpp(419,38): warning C4267: '=': conversion from 'size_t' to 'long', possible loss of data
+D:\DEVS\GameGuruConverter\GameGuru Core\SDK\BULLET\bullet-2.81-rev2613\src\LinearMath\btVector3.cpp(431,51): warning C4838: conversion from 'int' to 'const unsigned char' requires a narrowing conversion
+D:\DEVS\GameGuruConverter\GameGuru Core\SDK\BULLET\bullet-2.81-rev2613\src\LinearMath\btVector3.cpp(556,42): warning C4267: '=': conversion from 'size_t' to 'long', possible loss of data
+D:\DEVS\GameGuruConverter\GameGuru Core\SDK\BULLET\bullet-2.81-rev2613\src\LinearMath\btVector3.cpp(561,14): warning C4267: '-=': conversion from 'size_t' to 'unsigned long', possible loss of data
+D:\DEVS\GameGuruConverter\GameGuru Core\SDK\BULLET\bullet-2.81-rev2613\src\LinearMath\btVector3.cpp(807,38): warning C4267: '=': conversion from 'size_t' to 'long', possible loss of data
+  BulletPhysics.CPP
+D:\DEVS\GameGuruConverter\GameGuru Core\SDK\DirectX\globstruct.h(340,60): warning C4267: 'argument': conversion from 'size_t' to 'DWORD', possible loss of data
+D:\DEVS\GameGuruConverter\GameGuru Core\SDK\BULLET\bullet-2.81-rev2613\src\BulletCollision\CollisionDispatch\btCollisionWorld.h(219,47): warning C4311: 'type cast': pointer truncation from 'void *' to 'int'
+D:\DEVS\GameGuruConverter\GameGuru Core\SDK\BULLET\bullet-2.81-rev2613\src\BulletCollision\CollisionDispatch\btCollisionWorld.h(219,47): warning C4302: 'type cast': truncation from 'void *' to 'int'
+D:\DEVS\GameGuruConverter\GameGuru Core\SDK\BULLET\bullet-2.81-rev2613\src\BulletCollision\CollisionDispatch\btCollisionWorld.h(400,59): warning C4311: 'type cast': pointer truncation from 'void *' to 'int'
+D:\DEVS\GameGuruConverter\GameGuru Core\SDK\BULLET\bullet-2.81-rev2613\src\BulletCollision\CollisionDispatch\btCollisionWorld.h(400,59): warning C4302: 'type cast': truncation from 'void *' to 'int'
+D:\DEVS\GameGuruConverter\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\Bullet\BulletPhysics.CPP(189,24): warning C4244: '=': conversion from 'double' to 'btScalar', possible loss of data
+D:\DEVS\GameGuruConverter\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\Bullet\BulletPhysics.CPP(557,12): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\DEVS\GameGuruConverter\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\Bullet\BulletPhysics.CPP(684,13): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\DEVS\GameGuruConverter\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\Bullet\BulletPhysics.CPP(765,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\DEVS\GameGuruConverter\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\Bullet\BulletPhysics.CPP(845,12): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\DEVS\GameGuruConverter\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\Bullet\BulletPhysics.CPP(1259,23): warning C4312: 'type cast': conversion from 'int' to 'void *' of greater size
+D:\DEVS\GameGuruConverter\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\Bullet\BulletPhysics.CPP(1361,23): warning C4312: 'type cast': conversion from 'int' to 'void *' of greater size
+D:\DEVS\GameGuruConverter\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\Bullet\BulletPhysics.CPP(1605,29): warning C4312: 'type cast': conversion from 'int' to 'void *' of greater size
+D:\DEVS\GameGuruConverter\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\Bullet\BulletPhysics.CPP(1680,23): warning C4312: 'type cast': conversion from 'int' to 'void *' of greater size
+D:\DEVS\GameGuruConverter\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\Bullet\BulletPhysics.CPP(1760,23): warning C4312: 'type cast': conversion from 'int' to 'void *' of greater size
+D:\DEVS\GameGuruConverter\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\Bullet\BulletPhysics.CPP(1922,24): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+D:\DEVS\GameGuruConverter\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\Bullet\BulletPhysics.CPP(2083,24): warning C4312: 'type cast': conversion from 'int' to 'void *' of greater size
+D:\DEVS\GameGuruConverter\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\Bullet\BulletPhysics.CPP(2157,23): warning C4312: 'type cast': conversion from 'int' to 'void *' of greater size
+D:\DEVS\GameGuruConverter\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\Bullet\BulletPhysics.CPP(2258,24): warning C4312: 'type cast': conversion from 'DWORD' to 'float *' of greater size
+D:\DEVS\GameGuruConverter\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\Bullet\BulletPhysics.CPP(2292,23): warning C4312: 'type cast': conversion from 'int' to 'void *' of greater size
+D:\DEVS\GameGuruConverter\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\Bullet\BulletPhysics.CPP(2364,35): warning C4312: 'type cast': conversion from 'int' to 'void *' of greater size
+D:\DEVS\GameGuruConverter\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\Bullet\BulletPhysics.CPP(2466,23): warning C4312: 'type cast': conversion from 'int' to 'void *' of greater size
+D:\DEVS\GameGuruConverter\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\Bullet\BulletPhysics.CPP(2607,60): warning C4244: 'argument': conversion from 'double' to 'const btScalar', possible loss of data
+D:\DEVS\GameGuruConverter\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\Bullet\BulletPhysics.CPP(2607,37): warning C4244: 'argument': conversion from 'double' to 'const btScalar', possible loss of data
+D:\DEVS\GameGuruConverter\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\Bullet\BulletPhysics.CPP(3352,15): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\DEVS\GameGuruConverter\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\Bullet\BulletPhysics.CPP(3567,15): warning C4311: 'type cast': pointer truncation from 'void *' to 'int'
+D:\DEVS\GameGuruConverter\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\Bullet\BulletPhysics.CPP(3567,15): warning C4302: 'type cast': truncation from 'void *' to 'int'
+D:\DEVS\GameGuruConverter\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\Bullet\BulletPhysics.CPP(3620,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  BaseItem.cpp
+  BaseItemManager.cpp
+  BT2DX.cpp
+D:\DEVS\GameGuruConverter\GameGuru Core\SDK\BULLET\bullet-2.81-rev2613\src\BulletCollision\CollisionDispatch\btCollisionWorld.h(219,47): warning C4311: 'type cast': pointer truncation from 'void *' to 'int'
+D:\DEVS\GameGuruConverter\GameGuru Core\SDK\BULLET\bullet-2.81-rev2613\src\BulletCollision\CollisionDispatch\btCollisionWorld.h(219,47): warning C4302: 'type cast': truncation from 'void *' to 'int'
+D:\DEVS\GameGuruConverter\GameGuru Core\SDK\BULLET\bullet-2.81-rev2613\src\BulletCollision\CollisionDispatch\btCollisionWorld.h(400,59): warning C4311: 'type cast': pointer truncation from 'void *' to 'int'
+D:\DEVS\GameGuruConverter\GameGuru Core\SDK\BULLET\bullet-2.81-rev2613\src\BulletCollision\CollisionDispatch\btCollisionWorld.h(400,59): warning C4302: 'type cast': truncation from 'void *' to 'int'
+  DBProJoint.cpp
+D:\DEVS\GameGuruConverter\GameGuru Core\SDK\BULLET\bullet-2.81-rev2613\src\BulletCollision\CollisionDispatch\btCollisionWorld.h(219,47): warning C4311: 'type cast': pointer truncation from 'void *' to 'int'
+D:\DEVS\GameGuruConverter\GameGuru Core\SDK\BULLET\bullet-2.81-rev2613\src\BulletCollision\CollisionDispatch\btCollisionWorld.h(219,47): warning C4302: 'type cast': truncation from 'void *' to 'int'
+D:\DEVS\GameGuruConverter\GameGuru Core\SDK\BULLET\bullet-2.81-rev2613\src\BulletCollision\CollisionDispatch\btCollisionWorld.h(400,59): warning C4311: 'type cast': pointer truncation from 'void *' to 'int'
+D:\DEVS\GameGuruConverter\GameGuru Core\SDK\BULLET\bullet-2.81-rev2613\src\BulletCollision\CollisionDispatch\btCollisionWorld.h(400,59): warning C4302: 'type cast': truncation from 'void *' to 'int'
+  DBProJointManager.cpp
+D:\DEVS\GameGuruConverter\GameGuru Core\SDK\BULLET\bullet-2.81-rev2613\src\BulletCollision\CollisionDispatch\btCollisionWorld.h(219,47): warning C4311: 'type cast': pointer truncation from 'void *' to 'int'
+D:\DEVS\GameGuruConverter\GameGuru Core\SDK\BULLET\bullet-2.81-rev2613\src\BulletCollision\CollisionDispatch\btCollisionWorld.h(219,47): warning C4302: 'type cast': truncation from 'void *' to 'int'
+D:\DEVS\GameGuruConverter\GameGuru Core\SDK\BULLET\bullet-2.81-rev2613\src\BulletCollision\CollisionDispatch\btCollisionWorld.h(400,59): warning C4311: 'type cast': pointer truncation from 'void *' to 'int'
+D:\DEVS\GameGuruConverter\GameGuru Core\SDK\BULLET\bullet-2.81-rev2613\src\BulletCollision\CollisionDispatch\btCollisionWorld.h(400,59): warning C4302: 'type cast': truncation from 'void *' to 'int'
+D:\DEVS\GameGuruConverter\GameGuru Core\SDK\DirectX\Globstruct.h(340,60): warning C4267: 'argument': conversion from 'size_t' to 'DWORD', possible loss of data
+  DBProJoints.cpp
+D:\DEVS\GameGuruConverter\GameGuru Core\SDK\BULLET\bullet-2.81-rev2613\src\BulletCollision\CollisionDispatch\btCollisionWorld.h(219,47): warning C4311: 'type cast': pointer truncation from 'void *' to 'int'
+D:\DEVS\GameGuruConverter\GameGuru Core\SDK\BULLET\bullet-2.81-rev2613\src\BulletCollision\CollisionDispatch\btCollisionWorld.h(219,47): warning C4302: 'type cast': truncation from 'void *' to 'int'
+D:\DEVS\GameGuruConverter\GameGuru Core\SDK\BULLET\bullet-2.81-rev2613\src\BulletCollision\CollisionDispatch\btCollisionWorld.h(400,59): warning C4311: 'type cast': pointer truncation from 'void *' to 'int'
+D:\DEVS\GameGuruConverter\GameGuru Core\SDK\BULLET\bullet-2.81-rev2613\src\BulletCollision\CollisionDispatch\btCollisionWorld.h(400,59): warning C4302: 'type cast': truncation from 'void *' to 'int'
+  DBProMotionState.cpp
+D:\DEVS\GameGuruConverter\GameGuru Core\SDK\BULLET\bullet-2.81-rev2613\src\BulletCollision\CollisionDispatch\btCollisionWorld.h(219,47): warning C4311: 'type cast': pointer truncation from 'void *' to 'int'
+D:\DEVS\GameGuruConverter\GameGuru Core\SDK\BULLET\bullet-2.81-rev2613\src\BulletCollision\CollisionDispatch\btCollisionWorld.h(219,47): warning C4302: 'type cast': truncation from 'void *' to 'int'
+D:\DEVS\GameGuruConverter\GameGuru Core\SDK\BULLET\bullet-2.81-rev2613\src\BulletCollision\CollisionDispatch\btCollisionWorld.h(400,59): warning C4311: 'type cast': pointer truncation from 'void *' to 'int'
+D:\DEVS\GameGuruConverter\GameGuru Core\SDK\BULLET\bullet-2.81-rev2613\src\BulletCollision\CollisionDispatch\btCollisionWorld.h(400,59): warning C4302: 'type cast': truncation from 'void *' to 'int'
+D:\DEVS\GameGuruConverter\GameGuru Core\SDK\DirectX\Globstruct.h(340,60): warning C4267: 'argument': conversion from 'size_t' to 'DWORD', possible loss of data
+  DBProRagDoll.cpp
+D:\DEVS\GameGuruConverter\GameGuru Core\SDK\BULLET\bullet-2.81-rev2613\src\BulletCollision\CollisionDispatch\btCollisionWorld.h(219,47): warning C4311: 'type cast': pointer truncation from 'void *' to 'int'
+D:\DEVS\GameGuruConverter\GameGuru Core\SDK\BULLET\bullet-2.81-rev2613\src\BulletCollision\CollisionDispatch\btCollisionWorld.h(219,47): warning C4302: 'type cast': truncation from 'void *' to 'int'
+D:\DEVS\GameGuruConverter\GameGuru Core\SDK\BULLET\bullet-2.81-rev2613\src\BulletCollision\CollisionDispatch\btCollisionWorld.h(400,59): warning C4311: 'type cast': pointer truncation from 'void *' to 'int'
+D:\DEVS\GameGuruConverter\GameGuru Core\SDK\BULLET\bullet-2.81-rev2613\src\BulletCollision\CollisionDispatch\btCollisionWorld.h(400,59): warning C4302: 'type cast': truncation from 'void *' to 'int'
+D:\DEVS\GameGuruConverter\GameGuru Core\SDK\DirectX\Globstruct.h(340,60): warning C4267: 'argument': conversion from 'size_t' to 'DWORD', possible loss of data
+  DBProRagDollBone.cpp
+D:\DEVS\GameGuruConverter\GameGuru Core\SDK\BULLET\bullet-2.81-rev2613\src\BulletCollision\CollisionDispatch\btCollisionWorld.h(219,47): warning C4311: 'type cast': pointer truncation from 'void *' to 'int'
+D:\DEVS\GameGuruConverter\GameGuru Core\SDK\BULLET\bullet-2.81-rev2613\src\BulletCollision\CollisionDispatch\btCollisionWorld.h(219,47): warning C4302: 'type cast': truncation from 'void *' to 'int'
+D:\DEVS\GameGuruConverter\GameGuru Core\SDK\BULLET\bullet-2.81-rev2613\src\BulletCollision\CollisionDispatch\btCollisionWorld.h(400,59): warning C4311: 'type cast': pointer truncation from 'void *' to 'int'
+D:\DEVS\GameGuruConverter\GameGuru Core\SDK\BULLET\bullet-2.81-rev2613\src\BulletCollision\CollisionDispatch\btCollisionWorld.h(400,59): warning C4302: 'type cast': truncation from 'void *' to 'int'
+D:\DEVS\GameGuruConverter\GameGuru Core\SDK\DirectX\Globstruct.h(340,60): warning C4267: 'argument': conversion from 'size_t' to 'DWORD', possible loss of data
+  DBProRagdollManager.cpp
+D:\DEVS\GameGuruConverter\GameGuru Core\SDK\BULLET\bullet-2.81-rev2613\src\BulletCollision\CollisionDispatch\btCollisionWorld.h(219,47): warning C4311: 'type cast': pointer truncation from 'void *' to 'int'
+D:\DEVS\GameGuruConverter\GameGuru Core\SDK\BULLET\bullet-2.81-rev2613\src\BulletCollision\CollisionDispatch\btCollisionWorld.h(219,47): warning C4302: 'type cast': truncation from 'void *' to 'int'
+D:\DEVS\GameGuruConverter\GameGuru Core\SDK\BULLET\bullet-2.81-rev2613\src\BulletCollision\CollisionDispatch\btCollisionWorld.h(400,59): warning C4311: 'type cast': pointer truncation from 'void *' to 'int'
+D:\DEVS\GameGuruConverter\GameGuru Core\SDK\BULLET\bullet-2.81-rev2613\src\BulletCollision\CollisionDispatch\btCollisionWorld.h(400,59): warning C4302: 'type cast': truncation from 'void *' to 'int'
+D:\DEVS\GameGuruConverter\GameGuru Core\SDK\DirectX\Globstruct.h(340,60): warning C4267: 'argument': conversion from 'size_t' to 'DWORD', possible loss of data
+  DBProToBullet.cpp
+D:\DEVS\GameGuruConverter\GameGuru Core\SDK\BULLET\bullet-2.81-rev2613\src\BulletCollision\CollisionDispatch\btCollisionWorld.h(219,47): warning C4311: 'type cast': pointer truncation from 'void *' to 'int'
+D:\DEVS\GameGuruConverter\GameGuru Core\SDK\BULLET\bullet-2.81-rev2613\src\BulletCollision\CollisionDispatch\btCollisionWorld.h(219,47): warning C4302: 'type cast': truncation from 'void *' to 'int'
+D:\DEVS\GameGuruConverter\GameGuru Core\SDK\BULLET\bullet-2.81-rev2613\src\BulletCollision\CollisionDispatch\btCollisionWorld.h(400,59): warning C4311: 'type cast': pointer truncation from 'void *' to 'int'
+D:\DEVS\GameGuruConverter\GameGuru Core\SDK\BULLET\bullet-2.81-rev2613\src\BulletCollision\CollisionDispatch\btCollisionWorld.h(400,59): warning C4302: 'type cast': truncation from 'void *' to 'int'
+D:\DEVS\GameGuruConverter\GameGuru Core\SDK\DirectX\globstruct.h(340,60): warning C4267: 'argument': conversion from 'size_t' to 'DWORD', possible loss of data
+D:\DEVS\GameGuruConverter\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\Bullet\Ragdoll\DBProToBullet.cpp(168,102): warning C4244: 'argument': conversion from 'double' to 'const btScalar', possible loss of data
+D:\DEVS\GameGuruConverter\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\Bullet\Ragdoll\DBProToBullet.cpp(168,72): warning C4244: 'argument': conversion from 'double' to 'const btScalar', possible loss of data
+D:\DEVS\GameGuruConverter\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\Bullet\Ragdoll\DBProToBullet.cpp(168,42): warning C4244: 'argument': conversion from 'double' to 'const btScalar', possible loss of data
+  Generating Code...
+  Bullet.vcxproj -> D:\DEVS\GameGuruConverter\GameGuru Core\Dark Basic Public Shared\Lib64\Bullet.lib

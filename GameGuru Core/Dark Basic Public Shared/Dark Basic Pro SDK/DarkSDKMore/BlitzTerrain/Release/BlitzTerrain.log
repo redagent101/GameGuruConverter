@@ -1,0 +1,19 @@
+﻿  code-from-dbp.cpp
+  CreateObject.cpp
+  EnvironmentMapping.cpp
+  main.cpp
+D:\DEV\GameGuruConverter - reduced\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\Objects\ShadowMapping\cShadowMaps.h(377,34): warning C4244: '=': conversion from 'unsigned long' to 'float', possible loss of data
+D:\DEV\GameGuruConverter - reduced\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\Objects\ShadowMapping\cShadowMaps.h(378,37): warning C4244: '=': conversion from 'unsigned long' to 'float', possible loss of data
+D:\DEV\GameGuruConverter - reduced\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\Objects\ShadowMapping\cShadowMaps.h(379,37): warning C4244: '=': conversion from 'unsigned long' to 'float', possible loss of data
+D:\DEV\GameGuruConverter - reduced\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\Objects\ShadowMapping\cShadowMaps.h(380,37): warning C4244: '=': conversion from 'unsigned long' to 'float', possible loss of data
+D:\DEV\GameGuruConverter - reduced\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\DarkSDKMore\BlitzTerrain\main.cpp(2166,21): warning C4244: '=': conversion from 'DWORD' to 'FLOAT', possible loss of data
+D:\DEV\GameGuruConverter - reduced\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\DarkSDKMore\BlitzTerrain\main.cpp(2167,21): warning C4244: '=': conversion from 'DWORD' to 'FLOAT', possible loss of data
+D:\DEV\GameGuruConverter - reduced\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\DarkSDKMore\BlitzTerrain\main.cpp(2424,20): warning C4244: '=': conversion from 'DWORD' to 'FLOAT', possible loss of data
+D:\DEV\GameGuruConverter - reduced\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\DarkSDKMore\BlitzTerrain\main.cpp(2425,20): warning C4244: '=': conversion from 'DWORD' to 'FLOAT', possible loss of data
+D:\DEV\GameGuruConverter - reduced\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\DarkSDKMore\BlitzTerrain\main.cpp(2834,22): warning C4244: '=': conversion from 'DWORD' to 'FLOAT', possible loss of data
+D:\DEV\GameGuruConverter - reduced\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\DarkSDKMore\BlitzTerrain\main.cpp(2835,22): warning C4244: '=': conversion from 'DWORD' to 'FLOAT', possible loss of data
+  TEMPORARY
+  quadmapping.cpp
+  rttms.cpp
+  Generating Code...
+  BlitzTerrain.vcxproj -> D:\DEV\GameGuruConverter - reduced\GameGuru Core\Dark Basic Public Shared\Lib\BlitzTerrain.lib

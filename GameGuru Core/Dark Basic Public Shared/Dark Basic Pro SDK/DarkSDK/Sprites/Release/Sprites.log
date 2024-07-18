@@ -1,0 +1,18 @@
+﻿  SteamCheckForWorkshop.cpp
+  CError.cpp
+  CSpriteManagerC.cpp
+D:\DEV\GameGuruConverter - reduced - x64\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\Sprites\CSpriteManagerC.cpp(506,63): warning C4244: 'argument': conversion from 'DWORD' to 'float', possible loss of data
+D:\DEV\GameGuruConverter - reduced - x64\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\Sprites\CSpriteManagerC.cpp(506,51): warning C4244: 'argument': conversion from 'DWORD' to 'float', possible loss of data
+D:\DEV\GameGuruConverter - reduced - x64\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\Sprites\CSpriteManagerC.cpp(511,22): warning C4244: '=': conversion from 'DWORD' to 'FLOAT', possible loss of data
+D:\DEV\GameGuruConverter - reduced - x64\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\Sprites\CSpriteManagerC.cpp(512,22): warning C4244: '=': conversion from 'DWORD' to 'FLOAT', possible loss of data
+  CSpritesC.cpp
+D:\DEV\GameGuruConverter - reduced - x64\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\Sprites\CSpritesC.cpp(559,40): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\DEV\GameGuruConverter - reduced - x64\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\Sprites\CSpritesC.cpp(561,40): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\DEV\GameGuruConverter - reduced - x64\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\Sprites\CSpritesC.cpp(566,40): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\DEV\GameGuruConverter - reduced - x64\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\Sprites\CSpritesC.cpp(568,40): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\DEV\GameGuruConverter - reduced - x64\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\Sprites\CSpritesC.cpp(574,40): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\DEV\GameGuruConverter - reduced - x64\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\Sprites\CSpritesC.cpp(575,40): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\DEV\GameGuruConverter - reduced - x64\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\Sprites\CSpritesC.cpp(581,40): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\DEV\GameGuruConverter - reduced - x64\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\Sprites\CSpritesC.cpp(582,40): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Generating Code...
+  Sprites.vcxproj -> D:\DEV\GameGuruConverter - reduced - x64\GameGuru Core\Dark Basic Public Shared\Lib\Sprites.lib

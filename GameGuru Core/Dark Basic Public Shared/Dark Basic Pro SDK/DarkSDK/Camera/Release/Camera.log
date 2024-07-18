@@ -1,0 +1,12 @@
+﻿  CCameraC.cpp
+D:\DEV\GameGuruConverter - reduced - x64\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\Camera\CCameraC.cpp(1127,41): warning C4838: conversion from 'int' to 'UINT' requires a narrowing conversion
+D:\DEV\GameGuruConverter - reduced - x64\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\Camera\CCameraC.cpp(1127,49): warning C4838: conversion from 'int' to 'UINT' requires a narrowing conversion
+  CCameraManagerC.cpp
+  CDataC.cpp
+  Generating Code...
+  CCameraDataC.cpp
+  DBCameraGraphics.cpp
+D:\DEV\GameGuruConverter - reduced - x64\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\Camera\DBCameraGraphics.cpp(165,22): warning C4244: '=': conversion from 'DWORD' to 'FLOAT', possible loss of data
+D:\DEV\GameGuruConverter - reduced - x64\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\Camera\DBCameraGraphics.cpp(166,22): warning C4244: '=': conversion from 'DWORD' to 'FLOAT', possible loss of data
+  Generating Code...
+  Camera.vcxproj -> D:\DEV\GameGuruConverter - reduced - x64\GameGuru Core\Dark Basic Public Shared\Lib\Camera.lib

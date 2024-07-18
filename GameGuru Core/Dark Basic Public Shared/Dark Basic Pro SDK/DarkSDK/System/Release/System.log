@@ -1,0 +1,6 @@
+﻿  dxdiaginfo.cpp
+  CSystemC.cpp
+D:\DEV\GameGuruConverter - reduced - x64\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\System\CSystemC.cpp(120,9): warning C4101: 'dwStore': unreferenced local variable
+  CError.cpp
+  Generating Code...
+  System.vcxproj -> D:\DEV\GameGuruConverter - reduced - x64\GameGuru Core\Dark Basic Public Shared\Lib\System.lib

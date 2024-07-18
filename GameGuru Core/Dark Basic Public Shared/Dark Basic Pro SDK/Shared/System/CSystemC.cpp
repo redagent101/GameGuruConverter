@@ -119,7 +119,7 @@ DARKSDK bool Call(HINSTANCE hDLLModule, char* DecoratedName, DWORD* pDataAddress
 		// Store ESP
 		DWORD dwStore;
 
-		__asm mov         dword ptr dwStore, esp
+		/*__asm mov         dword ptr dwStore, esp
 
 		// Params Pushed Onto Stack (backwards)
 		for(int p=1; p<=paramnum; p++)
@@ -127,16 +127,16 @@ DARKSDK bool Call(HINSTANCE hDLLModule, char* DecoratedName, DWORD* pDataAddress
 			DWORD pDataItem = *((pDataAddress+paramnum)-p);
 			__asm mov         eax,dword ptr pDataItem
 			__asm push        eax
-		}
+		}*/
 
 		// Call DLL Function
-		__asm call        dword ptr fpAddress
+		/*__asm call        dword ptr fpAddress
 		__asm add         esp,4
 		__asm mov         ecx,dword ptr ReturnData
-		__asm mov         dword ptr [ecx],eax
+		__asm mov         dword ptr [ecx],eax*/
 
 		// Restore ESP
-		__asm mov         esp, dwStore
+		/*__asm mov         esp, dwStore*/
 
 		// Success
 		return true;

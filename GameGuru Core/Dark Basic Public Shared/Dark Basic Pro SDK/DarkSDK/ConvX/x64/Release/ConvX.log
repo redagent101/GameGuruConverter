@@ -1,0 +1,99 @@
+﻿  ConvX.cpp
+D:\DEVS\GameGuruConverter\GameGuru Core\SDK\DirectX\globstruct.h(340,60): warning C4267: 'argument': conversion from 'size_t' to 'DWORD', possible loss of data
+D:\DEVS\GameGuruConverter\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\ConvX\ConvX.cpp(782,27): warning C4267: 'initializing': conversion from 'size_t' to 'DWORD', possible loss of data
+D:\DEVS\GameGuruConverter\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\ConvX\ConvX.cpp(1167,14): warning C4312: 'type cast': conversion from 'DWORD' to 'char *' of greater size
+D:\DEVS\GameGuruConverter\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\ConvX\ConvX.cpp(1505,11): warning C4312: 'type cast': conversion from 'DWORD' to 'char *' of greater size
+D:\DEVS\GameGuruConverter\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\ConvX\ConvX.cpp(1915,16): warning C4267: 'initializing': conversion from 'size_t' to 'DWORD', possible loss of data
+  DBOBlock.cpp
+D:\DEVS\GameGuruConverter\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\DBOFormat\DBOBlock.cpp(53,14): warning C4267: 'initializing': conversion from 'size_t' to 'DWORD', possible loss of data
+D:\DEVS\GameGuruConverter\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\DBOFormat\DBOBlock.cpp(68,14): warning C4267: 'initializing': conversion from 'size_t' to 'DWORD', possible loss of data
+D:\DEVS\GameGuruConverter\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\DBOFormat\DBOBlock.cpp(86,17): warning C4267: '=': conversion from 'size_t' to 'DWORD', possible loss of data
+D:\DEVS\GameGuruConverter\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\DBOFormat\DBOBlock.cpp(117,17): warning C4267: '=': conversion from 'size_t' to 'DWORD', possible loss of data
+D:\DEVS\GameGuruConverter\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\DBOFormat\DBOBlock.cpp(173,18): warning C4267: '=': conversion from 'size_t' to 'DWORD', possible loss of data
+D:\DEVS\GameGuruConverter\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\DBOFormat\DBOBlock.cpp(211,19): warning C4267: '=': conversion from 'size_t' to 'DWORD', possible loss of data
+D:\DEVS\GameGuruConverter\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\DBOFormat\DBOBlock.cpp(249,18): warning C4267: '=': conversion from 'size_t' to 'DWORD', possible loss of data
+D:\DEVS\GameGuruConverter\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\DBOFormat\DBOBlock.cpp(284,16): warning C4267: 'initializing': conversion from 'size_t' to 'DWORD', possible loss of data
+D:\DEVS\GameGuruConverter\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\DBOFormat\DBOBlock.cpp(310,14): warning C4267: 'initializing': conversion from 'size_t' to 'DWORD', possible loss of data
+D:\DEVS\GameGuruConverter\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\DBOFormat\DBOBlock.cpp(365,18): warning C4267: '=': conversion from 'size_t' to 'DWORD', possible loss of data
+D:\DEVS\GameGuruConverter\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\DBOFormat\DBOBlock.cpp(410,18): warning C4267: '=': conversion from 'size_t' to 'DWORD', possible loss of data
+D:\DEVS\GameGuruConverter\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\DBOFormat\DBOBlock.cpp(455,18): warning C4267: '=': conversion from 'size_t' to 'DWORD', possible loss of data
+D:\DEVS\GameGuruConverter\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\DBOFormat\DBOBlock.cpp(650,58): warning C4244: '=': conversion from '__int64' to 'DWORD', possible loss of data
+D:\DEVS\GameGuruConverter\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\DBOFormat\DBOBlock.cpp(681,58): warning C4244: '=': conversion from '__int64' to 'DWORD', possible loss of data
+D:\DEVS\GameGuruConverter\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\DBOFormat\DBOBlock.cpp(712,58): warning C4244: '=': conversion from '__int64' to 'DWORD', possible loss of data
+D:\DEVS\GameGuruConverter\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\DBOFormat\DBOBlock.cpp(793,58): warning C4244: '=': conversion from '__int64' to 'DWORD', possible loss of data
+D:\DEVS\GameGuruConverter\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\DBOFormat\DBOBlock.cpp(912,57): warning C4244: '=': conversion from '__int64' to 'DWORD', possible loss of data
+D:\DEVS\GameGuruConverter\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\DBOFormat\DBOBlock.cpp(939,57): warning C4244: '=': conversion from '__int64' to 'DWORD', possible loss of data
+D:\DEVS\GameGuruConverter\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\DBOFormat\DBOBlock.cpp(954,57): warning C4244: '=': conversion from '__int64' to 'DWORD', possible loss of data
+D:\DEVS\GameGuruConverter\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\DBOFormat\DBOBlock.cpp(996,58): warning C4244: '=': conversion from '__int64' to 'DWORD', possible loss of data
+D:\DEVS\GameGuruConverter\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\DBOFormat\DBOBlock.cpp(1047,57): warning C4244: '=': conversion from '__int64' to 'DWORD', possible loss of data
+D:\DEVS\GameGuruConverter\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\DBOFormat\DBOBlock.cpp(1055,57): warning C4244: '=': conversion from '__int64' to 'DWORD', possible loss of data
+D:\DEVS\GameGuruConverter\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\DBOFormat\DBOBlock.cpp(1064,57): warning C4244: '=': conversion from '__int64' to 'DWORD', possible loss of data
+D:\DEVS\GameGuruConverter\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\DBOFormat\DBOBlock.cpp(1073,57): warning C4244: '=': conversion from '__int64' to 'DWORD', possible loss of data
+D:\DEVS\GameGuruConverter\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\DBOFormat\DBOBlock.cpp(1082,57): warning C4244: '=': conversion from '__int64' to 'DWORD', possible loss of data
+D:\DEVS\GameGuruConverter\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\DBOFormat\DBOBlock.cpp(1090,57): warning C4244: '=': conversion from '__int64' to 'DWORD', possible loss of data
+D:\DEVS\GameGuruConverter\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\DBOFormat\DBOBlock.cpp(1098,57): warning C4244: '=': conversion from '__int64' to 'DWORD', possible loss of data
+D:\DEVS\GameGuruConverter\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\DBOFormat\DBOBlock.cpp(1106,57): warning C4244: '=': conversion from '__int64' to 'DWORD', possible loss of data
+D:\DEVS\GameGuruConverter\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\DBOFormat\DBOBlock.cpp(1131,56): warning C4244: '=': conversion from '__int64' to 'DWORD', possible loss of data
+D:\DEVS\GameGuruConverter\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\DBOFormat\DBOBlock.cpp(1168,57): warning C4244: '=': conversion from '__int64' to 'DWORD', possible loss of data
+D:\DEVS\GameGuruConverter\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\DBOFormat\DBOBlock.cpp(1233,58): warning C4244: '=': conversion from '__int64' to 'DWORD', possible loss of data
+D:\DEVS\GameGuruConverter\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\DBOFormat\DBOBlock.cpp(1241,58): warning C4244: '=': conversion from '__int64' to 'DWORD', possible loss of data
+D:\DEVS\GameGuruConverter\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\DBOFormat\DBOBlock.cpp(1248,58): warning C4244: '=': conversion from '__int64' to 'DWORD', possible loss of data
+D:\DEVS\GameGuruConverter\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\DBOFormat\DBOBlock.cpp(1256,58): warning C4244: '=': conversion from '__int64' to 'DWORD', possible loss of data
+D:\DEVS\GameGuruConverter\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\DBOFormat\DBOBlock.cpp(1264,58): warning C4244: '=': conversion from '__int64' to 'DWORD', possible loss of data
+D:\DEVS\GameGuruConverter\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\DBOFormat\DBOBlock.cpp(1272,58): warning C4244: '=': conversion from '__int64' to 'DWORD', possible loss of data
+D:\DEVS\GameGuruConverter\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\DBOFormat\DBOBlock.cpp(1284,58): warning C4244: '=': conversion from '__int64' to 'DWORD', possible loss of data
+D:\DEVS\GameGuruConverter\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\DBOFormat\DBOBlock.cpp(1306,57): warning C4244: '=': conversion from '__int64' to 'DWORD', possible loss of data
+D:\DEVS\GameGuruConverter\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\DBOFormat\DBOBlock.cpp(1337,58): warning C4244: '=': conversion from '__int64' to 'DWORD', possible loss of data
+D:\DEVS\GameGuruConverter\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\DBOFormat\DBOBlock.cpp(1349,61): warning C4244: '=': conversion from '__int64' to 'DWORD', possible loss of data
+D:\DEVS\GameGuruConverter\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\DBOFormat\DBOBlock.cpp(1376,56): warning C4244: '=': conversion from '__int64' to 'DWORD', possible loss of data
+D:\DEVS\GameGuruConverter\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\DBOFormat\DBOBlock.cpp(1385,56): warning C4244: '=': conversion from '__int64' to 'DWORD', possible loss of data
+D:\DEVS\GameGuruConverter\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\DBOFormat\DBOBlock.cpp(1403,56): warning C4244: '=': conversion from '__int64' to 'DWORD', possible loss of data
+  DBOData.cpp
+D:\DEVS\GameGuruConverter\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\SHARED\DBOFORMAT\DBOData.cpp(109,22): warning C4244: '=': conversion from 'float' to 'DWORD', possible loss of data
+  DBOEffects.cpp
+D:\DEVS\GameGuruConverter\GameGuru Core\SDK\DirectX\globstruct.h(340,60): warning C4267: 'argument': conversion from 'size_t' to 'DWORD', possible loss of data
+  DBOExternals.cpp
+D:\DEVS\GameGuruConverter\GameGuru Core\SDK\DirectX\globstruct.h(340,60): warning C4267: 'argument': conversion from 'size_t' to 'DWORD', possible loss of data
+  DBOFile.cpp
+  DBOFormat.cpp
+D:\DEVS\GameGuruConverter\GameGuru Core\SDK\DirectX\globstruct.h(340,60): warning C4267: 'argument': conversion from 'size_t' to 'DWORD', possible loss of data
+D:\DEVS\GameGuruConverter\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\DBOFormat\DBOFormat.cpp(293,27): warning C4244: 'initializing': conversion from '__int64' to 'DWORD', possible loss of data
+D:\DEVS\GameGuruConverter\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\DBOFormat\DBOFormat.cpp(326,13): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\DEVS\GameGuruConverter\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\DBOFormat\DBOFormat.cpp(789,5): warning C4554: '|': check operator precedence for possible error; use parentheses to clarify precedence
+D:\DEVS\GameGuruConverter\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\DBOFormat\DBOFormat.cpp(839,35): warning C4838: conversion from 'INT' to 'UINT' requires a narrowing conversion
+D:\DEVS\GameGuruConverter\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\DBOFormat\DBOFormat.cpp(839,42): warning C4838: conversion from 'INT' to 'UINT' requires a narrowing conversion
+D:\DEVS\GameGuruConverter\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\DBOFormat\DBOFormat.cpp(1473,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\DEVS\GameGuruConverter\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\DBOFormat\DBOFormat.cpp(3022,25): warning C4267: 'initializing': conversion from 'size_t' to 'DWORD', possible loss of data
+D:\DEVS\GameGuruConverter\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\DBOFormat\DBOFormat.cpp(3023,23): warning C4267: 'initializing': conversion from 'size_t' to 'DWORD', possible loss of data
+D:\DEVS\GameGuruConverter\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\DBOFormat\DBOFormat.cpp(7279,13): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\DEVS\GameGuruConverter\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\DBOFormat\DBOFormat.cpp(7350,13): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\DEVS\GameGuruConverter\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\DBOFormat\DBOFormat.cpp(7359,22): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  DBOFrame.cpp
+D:\DEVS\GameGuruConverter\GameGuru Core\SDK\DirectX\globstruct.h(340,60): warning C4267: 'argument': conversion from 'size_t' to 'DWORD', possible loss of data
+  DBOMesh.cpp
+D:\DEVS\GameGuruConverter\GameGuru Core\SDK\DirectX\globstruct.h(340,60): warning C4267: 'argument': conversion from 'size_t' to 'DWORD', possible loss of data
+D:\DEVS\GameGuruConverter\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\DBOFormat\DBOMesh.cpp(1620,18): warning C4267: 'initializing': conversion from 'size_t' to 'DWORD', possible loss of data
+D:\DEVS\GameGuruConverter\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\DBOFormat\DBOMesh.cpp(1682,26): warning C4267: 'initializing': conversion from 'size_t' to 'DWORD', possible loss of data
+  DBORawMesh.cpp
+D:\DEVS\GameGuruConverter\GameGuru Core\SDK\DirectX\globstruct.h(340,60): warning C4267: 'argument': conversion from 'size_t' to 'DWORD', possible loss of data
+  NVMeshMenderD3DX.cpp
+D:\DEVS\GameGuruConverter\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\DBOFormat\Extras\NVMeshMenderD3DX.cpp(243,52): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+D:\DEVS\GameGuruConverter\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\DBOFormat\Extras\NVMeshMenderD3DX.cpp(315,50): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+D:\DEVS\GameGuruConverter\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\DBOFormat\Extras\NVMeshMenderD3DX.cpp(491,45): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+D:\DEVS\GameGuruConverter\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\DBOFormat\Extras\NVMeshMenderD3DX.cpp(491,31): warning C4267: 'initializing': conversion from 'size_t' to 'const unsigned int', possible loss of data
+D:\DEVS\GameGuruConverter\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\DBOFormat\Extras\NVMeshMenderD3DX.cpp(529,32): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+D:\DEVS\GameGuruConverter\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\DBOFormat\Extras\NVMeshMenderD3DX.cpp(599,32): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+D:\DEVS\GameGuruConverter\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\DBOFormat\Extras\NVMeshMenderD3DX.cpp(681,49): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+D:\DEVS\GameGuruConverter\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\DBOFormat\Extras\NVMeshMenderD3DX.cpp(694,50): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+D:\DEVS\GameGuruConverter\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\DBOFormat\Extras\NVMeshMenderD3DX.cpp(706,50): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+D:\DEVS\GameGuruConverter\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\DBOFormat\Extras\NVMeshMenderD3DX.cpp(706,36): warning C4267: 'initializing': conversion from 'size_t' to 'const unsigned int', possible loss of data
+D:\DEVS\GameGuruConverter\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\DBOFormat\Extras\NVMeshMenderD3DX.cpp(876,58): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+D:\DEVS\GameGuruConverter\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\DBOFormat\Extras\NVMeshMenderD3DX.cpp(876,39): warning C4267: 'initializing': conversion from 'size_t' to 'const unsigned int', possible loss of data
+D:\DEVS\GameGuruConverter\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\DBOFormat\Extras\NVMeshMenderD3DX.cpp(922,49): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\DEVS\GameGuruConverter\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\DBOFormat\Extras\NVMeshMenderD3DX.cpp(922,32): warning C4267: 'initializing': conversion from 'size_t' to 'const int', possible loss of data
+  CError.cpp
+D:\DEVS\GameGuruConverter\GameGuru Core\SDK\DirectX\globstruct.h(340,60): warning C4267: 'argument': conversion from 'size_t' to 'DWORD', possible loss of data
+  globstruct.cpp
+D:\DEVS\GameGuruConverter\GameGuru Core\SDK\DirectX\globstruct.h(340,60): warning C4267: 'argument': conversion from 'size_t' to 'DWORD', possible loss of data
+  Generating Code...
+  ConvX.vcxproj -> D:\DEVS\GameGuruConverter\GameGuru Core\Dark Basic Public Shared\Lib64\ConvX.lib

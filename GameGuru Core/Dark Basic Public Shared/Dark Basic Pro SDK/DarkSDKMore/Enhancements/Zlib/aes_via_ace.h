@@ -143,82 +143,82 @@ static unsigned char via_flags = 0;
 
 INLINE int has_cpuid(void)
 {   char ret_value;
-    __asm
-    {   pushfd                  /* save EFLAGS register     */
-        mov     eax,[esp]       /* copy it to eax           */
-        mov     edx,0x00200000  /* CPUID bit position       */
-        xor     eax,edx         /* toggle the CPUID bit     */
-        push    eax             /* attempt to set EFLAGS to */
-        popfd                   /*     the new value        */
-        pushfd                  /* get the new EFLAGS value */
-        pop     eax             /*     into eax             */
-        xor     eax,[esp]       /* xor with original value  */
-        and     eax,edx         /* has CPUID bit changed?   */
-        setne   al              /* set to 1 if we have been */
-        mov     ret_value,al    /*     able to change it    */
-        popfd                   /* restore original EFLAGS  */
-    }
+    //__asm
+    //{   pushfd                  /* save EFLAGS register     */
+     //   mov     eax,[esp]       /* copy it to eax           */
+     //   mov     edx,0x00200000  /* CPUID bit position       */
+     //   xor     eax,edx         /* toggle the CPUID bit     */
+     //   push    eax             /* attempt to set EFLAGS to */
+     //   popfd                   /*     the new value        */
+     //   pushfd                  /* get the new EFLAGS value */
+     //   pop     eax             /*     into eax             */
+     //   xor     eax,[esp]       /* xor with original value  */
+     //   and     eax,edx         /* has CPUID bit changed?   */
+     //   setne   al              /* set to 1 if we have been */
+     //   mov     ret_value,al    /*     able to change it    */
+     //   popfd                   /* restore original EFLAGS  */
+    //}
     return (int)ret_value;
 }
 
 INLINE int is_via_cpu(void)
 {   char ret_value;
-    __asm
-    {   push    ebx
-        xor     eax,eax         /* use CPUID to get vendor  */
-        cpuid                   /* identity string          */
-        xor     eax,eax         /* is it "CentaurHauls" ?   */
-        sub     ebx,0x746e6543  /* 'Cent'                   */
-        or      eax,ebx
-        sub     edx,0x48727561  /* 'aurH'                   */
-        or      eax,edx
-        sub     ecx,0x736c7561  /* 'auls'                   */
-        or      eax,ecx
-        sete    al              /* set to 1 if it is VIA ID */
-        mov     dl,NEH_CPU_READ /* mark CPU type as read    */
-        or      dl,al           /* & store result in flags  */
-        mov     [via_flags],dl  /* set VIA detected flag    */
-        mov     ret_value,al    /*     able to change it    */
-        pop     ebx
-    }
+    //__asm
+    //{   push    ebx
+    //    xor     eax,eax         /* use CPUID to get vendor  */
+    //    cpuid                   /* identity string          */
+    //    xor     eax,eax         /* is it "CentaurHauls" ?   */
+    //    sub     ebx,0x746e6543  /* 'Cent'                   */
+    //    or      eax,ebx
+    //    sub     edx,0x48727561  /* 'aurH'                   */
+    //    or      eax,edx
+    //    sub     ecx,0x736c7561  /* 'auls'                   */
+    //    or      eax,ecx
+    //    sete    al              /* set to 1 if it is VIA ID */
+    //    mov     dl,NEH_CPU_READ /* mark CPU type as read    */
+    //    or      dl,al           /* & store result in flags  */
+    //    mov     [via_flags],dl  /* set VIA detected flag    */
+    //    mov     ret_value,al    /*     able to change it    */
+    //    pop     ebx
+    //}
     return (int)ret_value;
 }
 
 INLINE int read_via_flags(void)
 {   char ret_value = 0;
-    __asm
-    {   mov     eax,0xC0000000  /* Centaur extended CPUID   */
-        cpuid
-        mov     edx,0xc0000001  /* >= 0xc0000001 if support */
-        cmp     eax,edx         /* for VIA extended feature */
-        jnae    no_rng          /*     flags is available   */
-        mov     eax,edx         /* read Centaur extended    */
-        cpuid                   /*     feature flags        */
-        mov     eax,NEH_FLAGS_MASK  /* mask out and save    */
-        and     eax,edx         /*  the RNG and ACE flags   */
-        or      [via_flags],al  /* present & enabled flags  */
-        mov     ret_value,al    /*     able to change it    */
-no_rng:
-    }
+    //__asm
+    //{   mov     eax,0xC0000000  /* Centaur extended CPUID   */
+    //    cpuid
+    //    mov     edx,0xc0000001  /* >= 0xc0000001 if support */
+    //    cmp     eax,edx         /* for VIA extended feature */
+    //    jnae    no_rng          /*     flags is available   */
+    //    mov     eax,edx         /* read Centaur extended    */
+    //    cpuid                   /*     feature flags        */
+    //    mov     eax,NEH_FLAGS_MASK  /* mask out and save    */
+    //    and     eax,edx         /*  the RNG and ACE flags   */
+    //    or      [via_flags],al  /* present & enabled flags  */
+    //    mov     ret_value,al    /*     able to change it    */
+//no_rng:
+    //}
     return (int)ret_value;
 }
 
 INLINE unsigned int via_rng_in(void *buf)
 {   char ret_value = 0x1f;
-    __asm
-    {   push    edi
-        mov     edi,buf         /* input buffer address     */
-        xor     edx,edx         /* try to fetch 8 bytes     */
-        NEH_RNG                 /* do RNG read operation    */
-        and     ret_value,al    /* count of bytes returned  */
-        pop     edi
-    }
+   // __asm
+   // {   push    edi
+   //     mov     edi,buf         /* input buffer address     */
+   //     xor     edx,edx         /* try to fetch 8 bytes     */
+   //     NEH_RNG                 /* do RNG read operation    */
+   //     and     ret_value,al    /* count of bytes returned  */
+   //     pop     edi
+   // }
     return (int)ret_value;
 }
 
 INLINE void via_ecb_op5(
             const void *k, const void *c, const void *s, void *d, int l)
-{   __asm
+{   /*__asm
     {   push    ebx
         NEH_REKEY
         mov     ebx, (k)
@@ -228,12 +228,12 @@ INLINE void via_ecb_op5(
         mov     ecx, (l)
         NEH_ECB
         pop     ebx
-    }
+    }*/
 }
 
 INLINE void via_cbc_op6(
             const void *k, const void *c, const void *s, void *d, int l, void *v)
-{   __asm
+{  /* __asm
     {   push    ebx
         NEH_REKEY
         mov     ebx, (k)
@@ -244,12 +244,12 @@ INLINE void via_cbc_op6(
         mov     eax, (v)
         NEH_CBC
         pop     ebx
-    }
+    }*/
 }
 
 INLINE void via_cbc_op7(
         const void *k, const void *c, const void *s, void *d, int l, void *v, void *w)
-{   __asm
+{   /*__asm
     {   push    ebx
         NEH_REKEY
         mov     ebx, (k)
@@ -266,12 +266,12 @@ INLINE void via_cbc_op7(
         movsd
         movsd
         pop     ebx
-    }
+    }*/
 }
 
 INLINE void via_cfb_op6(
             const void *k, const void *c, const void *s, void *d, int l, void *v)
-{   __asm
+{   /*__asm
     {   push    ebx
         NEH_REKEY
         mov     ebx, (k)
@@ -282,12 +282,12 @@ INLINE void via_cfb_op6(
         mov     eax, (v)
         NEH_CFB
         pop     ebx
-    }
+    }*/
 }
 
 INLINE void via_cfb_op7(
         const void *k, const void *c, const void *s, void *d, int l, void *v, void *w)
-{   __asm
+{   /*__asm
     {   push    ebx
         NEH_REKEY
         mov     ebx, (k)
@@ -304,12 +304,12 @@ INLINE void via_cfb_op7(
         movsd
         movsd
         pop     ebx
-    }
+    }*/
 }
 
 INLINE void via_ofb_op6(
             const void *k, const void *c, const void *s, void *d, int l, void *v)
-{   __asm
+{   /*__asm
     {   push    ebx
         NEH_REKEY
         mov     ebx, (k)
@@ -320,7 +320,7 @@ INLINE void via_ofb_op6(
         mov     eax, (v)
         NEH_OFB
         pop     ebx
-    }
+    }*/
 }
 
 #elif defined( __GNUC__ )

@@ -1,0 +1,241 @@
+﻿  Encryptor.cpp
+  DBDLLCoreEncryptCall.cpp
+D:\DEVS\GameGuruConverter\GameGuru Core\Guru-MapEditor\Encryptor.cpp(34,17): warning C4267: 'initializing': conversion from 'size_t' to 'DWORD', possible loss of data
+D:\DEVS\GameGuruConverter\GameGuru Core\SDK\DirectX\globstruct.h(340,60): warning C4267: 'argument': conversion from 'size_t' to 'DWORD', possible loss of data
+  cMatrix.cpp
+  cVector2D.cpp
+  cVector3D.cpp
+D:\DEVS\GameGuruConverter\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\Core\KMaths\cVector3D.cpp(716,16): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\DEVS\GameGuruConverter\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\Core\KMaths\cVector3D.cpp(717,16): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\DEVS\GameGuruConverter\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\Core\KMaths\cVector3D.cpp(718,16): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\DEVS\GameGuruConverter\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\Core\KMaths\cVector3D.cpp(719,13): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\DEVS\GameGuruConverter\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\Core\KMaths\cVector3D.cpp(946,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  cVector4D.cpp
+  RenderList.cpp
+D:\DEVS\GameGuruConverter\GameGuru Core\SDK\DirectX\globstruct.h(340,60): warning C4267: 'argument': conversion from 'size_t' to 'DWORD', possible loss of data
+  SteamCheckForWorkshop.cpp
+  Generating Code...
+  DBDLLCore.cpp
+D:\DEVS\GameGuruConverter\GameGuru Core\SDK\DirectX\globstruct.h(340,60): warning C4267: 'argument': conversion from 'size_t' to 'DWORD', possible loss of data
+D:\DEVS\GameGuruConverter\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\Sprites\cspritemanagerc.h(35,67): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+D:\DEVS\GameGuruConverter\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\Core\DBDLLCore.cpp(254,32): warning C4312: 'type cast': conversion from 'unsigned long' to 'LPSTR' of greater size
+D:\DEVS\GameGuruConverter\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\Core\DBDLLCore.cpp(777,26): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+D:\DEVS\GameGuruConverter\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\Core\DBDLLCore.cpp(778,27): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+D:\DEVS\GameGuruConverter\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\Core\DBDLLCore.cpp(789,77): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\DEVS\GameGuruConverter\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\Core\DBDLLCore.cpp(789,73): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\DEVS\GameGuruConverter\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\Core\DBDLLCore.cpp(789,55): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\DEVS\GameGuruConverter\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\Core\DBDLLCore.cpp(789,38): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\DEVS\GameGuruConverter\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\Core\DBDLLCore.cpp(1364,16): warning C4244: '=': conversion from 'WPARAM' to 'WORD', possible loss of data
+D:\DEVS\GameGuruConverter\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\Core\DBDLLCore.cpp(1368,16): warning C4244: '=': conversion from 'WPARAM' to 'WORD', possible loss of data
+D:\DEVS\GameGuruConverter\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\Core\DBDLLCore.cpp(1587,38): warning C4312: 'type cast': conversion from 'unsigned int' to 'HANDLE' of greater size
+D:\DEVS\GameGuruConverter\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\Core\DBDLLCore.cpp(1620,46): warning C4267: 'argument': conversion from 'size_t' to 'unsigned long', possible loss of data
+D:\DEVS\GameGuruConverter\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\Core\DBDLLCore.cpp(1661,20): warning C4312: 'type cast': conversion from 'unsigned long' to 'LPSTR' of greater size
+D:\DEVS\GameGuruConverter\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\Core\DBDLLCore.cpp(1667,10): warning C4312: 'type cast': conversion from 'unsigned long' to 'LPSTR' of greater size
+D:\DEVS\GameGuruConverter\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\Core\DBDLLCore.cpp(1778,20): warning C4312: 'type cast': conversion from 'unsigned long' to 'LPSTR' of greater size
+D:\DEVS\GameGuruConverter\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\Core\DBDLLCore.cpp(1783,36): warning C4312: 'type cast': conversion from 'unsigned long' to 'LPSTR' of greater size
+D:\DEVS\GameGuruConverter\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\Core\DBDLLCore.cpp(1788,27): warning C4312: 'type cast': conversion from 'unsigned long' to 'LPSTR' of greater size
+D:\DEVS\GameGuruConverter\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\Core\DBDLLCore.cpp(1859,15): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\DEVS\GameGuruConverter\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\Core\DBDLLCore.cpp(2251,15): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\DEVS\GameGuruConverter\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\Core\DBDLLCore.cpp(2263,14): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\DEVS\GameGuruConverter\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\Core\DBDLLCore.cpp(2313,48): warning C4311: 'type cast': pointer truncation from 'LRESULT (__cdecl *)(HWND,UINT,WPARAM,LPARAM)' to 'LONG'
+D:\DEVS\GameGuruConverter\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\Core\DBDLLCore.cpp(2313,48): warning C4302: 'type cast': truncation from 'LRESULT (__cdecl *)(HWND,UINT,WPARAM,LPARAM)' to 'LONG'
+D:\DEVS\GameGuruConverter\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\Core\DBDLLCore.cpp(2556,9): warning C4311: 'type cast': pointer truncation from 'GlobStruct *' to 'unsigned long'
+D:\DEVS\GameGuruConverter\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\Core\DBDLLCore.cpp(2556,9): warning C4302: 'type cast': truncation from 'GlobStruct *' to 'unsigned long'
+D:\DEVS\GameGuruConverter\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\Core\DBDLLCore.cpp(2684,9): warning C4311: 'type cast': pointer truncation from 'LPSTR' to 'unsigned long'
+D:\DEVS\GameGuruConverter\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\Core\DBDLLCore.cpp(2684,9): warning C4302: 'type cast': truncation from 'LPSTR' to 'unsigned long'
+D:\DEVS\GameGuruConverter\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\Core\DBDLLCore.cpp(2691,9): warning C4311: 'type cast': pointer truncation from 'LPSTR' to 'unsigned long'
+D:\DEVS\GameGuruConverter\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\Core\DBDLLCore.cpp(2691,9): warning C4302: 'type cast': truncation from 'LPSTR' to 'unsigned long'
+D:\DEVS\GameGuruConverter\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\Core\DBDLLCore.cpp(2756,13): warning C4311: 'type cast': pointer truncation from 'LPSTR' to 'unsigned long'
+D:\DEVS\GameGuruConverter\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\Core\DBDLLCore.cpp(2756,13): warning C4302: 'type cast': truncation from 'LPSTR' to 'unsigned long'
+D:\DEVS\GameGuruConverter\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\Core\DBDLLCore.cpp(2771,9): warning C4311: 'type cast': pointer truncation from 'LPSTR' to 'unsigned long'
+D:\DEVS\GameGuruConverter\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\Core\DBDLLCore.cpp(2771,9): warning C4302: 'type cast': truncation from 'LPSTR' to 'unsigned long'
+D:\DEVS\GameGuruConverter\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\Core\DBDLLCore.cpp(2779,38): warning C4312: 'type cast': conversion from 'unsigned long' to 'unsigned long *' of greater size
+D:\DEVS\GameGuruConverter\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\Core\DBDLLCore.cpp(2783,28): warning C4312: 'type cast': conversion from 'unsigned long' to 'unsigned long *' of greater size
+D:\DEVS\GameGuruConverter\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\Core\DBDLLCore.cpp(2784,29): warning C4312: 'type cast': conversion from 'unsigned long' to 'unsigned long *' of greater size
+D:\DEVS\GameGuruConverter\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\Core\DBDLLCore.cpp(2787,29): warning C4312: 'type cast': conversion from 'unsigned long' to 'LPSTR' of greater size
+D:\DEVS\GameGuruConverter\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\Core\DBDLLCore.cpp(2816,23): warning C4312: 'type cast': conversion from 'unsigned long' to 'unsigned long *' of greater size
+D:\DEVS\GameGuruConverter\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\Core\DBDLLCore.cpp(2827,18): warning C4312: 'type cast': conversion from 'unsigned long' to 'LPSTR *' of greater size
+D:\DEVS\GameGuruConverter\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\Core\DBDLLCore.cpp(2857,12): warning C4312: 'type cast': conversion from 'unsigned long' to 'unsigned long *' of greater size
+D:\DEVS\GameGuruConverter\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\Core\DBDLLCore.cpp(2864,24): warning C4312: 'type cast': conversion from 'unsigned long' to 'LPSTR' of greater size
+D:\DEVS\GameGuruConverter\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\Core\DBDLLCore.cpp(2885,20): warning C4312: 'type cast': conversion from 'unsigned long' to 'LPSTR' of greater size
+D:\DEVS\GameGuruConverter\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\Core\DBDLLCore.cpp(2910,42): warning C4311: 'type cast': pointer truncation from 'LPSTR' to 'unsigned long'
+D:\DEVS\GameGuruConverter\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\Core\DBDLLCore.cpp(2910,42): warning C4302: 'type cast': truncation from 'LPSTR' to 'unsigned long'
+D:\DEVS\GameGuruConverter\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\Core\DBDLLCore.cpp(2911,16): warning C4311: 'type cast': pointer truncation from 'LPSTR' to 'unsigned long'
+D:\DEVS\GameGuruConverter\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\Core\DBDLLCore.cpp(2911,16): warning C4302: 'type cast': truncation from 'LPSTR' to 'unsigned long'
+D:\DEVS\GameGuruConverter\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\Core\DBDLLCore.cpp(2927,9): warning C4311: 'type cast': pointer truncation from 'LPSTR' to 'unsigned long'
+D:\DEVS\GameGuruConverter\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\Core\DBDLLCore.cpp(2927,9): warning C4302: 'type cast': truncation from 'LPSTR' to 'unsigned long'
+D:\DEVS\GameGuruConverter\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\Core\DBDLLCore.cpp(2932,26): warning C4312: 'type cast': conversion from 'unsigned long' to 'unsigned long *' of greater size
+D:\DEVS\GameGuruConverter\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\Core\DBDLLCore.cpp(2933,27): warning C4312: 'type cast': conversion from 'unsigned long' to 'unsigned long *' of greater size
+D:\DEVS\GameGuruConverter\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\Core\DBDLLCore.cpp(2936,25): warning C4312: 'type cast': conversion from 'unsigned long' to 'LPSTR' of greater size
+D:\DEVS\GameGuruConverter\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\Core\DBDLLCore.cpp(2982,29): warning C4312: 'type cast': conversion from 'unsigned long' to 'LPSTR' of greater size
+D:\DEVS\GameGuruConverter\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\Core\DBDLLCore.cpp(3019,32): warning C4312: 'type cast': conversion from 'unsigned long' to 'LPSTR' of greater size
+D:\DEVS\GameGuruConverter\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\Core\DBDLLCore.cpp(3042,32): warning C4312: 'type cast': conversion from 'unsigned long' to 'LPSTR' of greater size
+D:\DEVS\GameGuruConverter\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\Core\DBDLLCore.cpp(3051,19): warning C4312: 'type cast': conversion from 'unsigned long' to 'unsigned long *' of greater size
+D:\DEVS\GameGuruConverter\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\Core\DBDLLCore.cpp(3052,19): warning C4312: 'type cast': conversion from 'unsigned long' to 'unsigned long *' of greater size
+D:\DEVS\GameGuruConverter\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\Core\DBDLLCore.cpp(3109,20): warning C4312: 'type cast': conversion from 'unsigned long' to 'LPSTR' of greater size
+D:\DEVS\GameGuruConverter\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\Core\DBDLLCore.cpp(3110,20): warning C4312: 'type cast': conversion from 'unsigned long' to 'LPSTR' of greater size
+D:\DEVS\GameGuruConverter\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\Core\DBDLLCore.cpp(3160,19): warning C4312: 'type cast': conversion from 'unsigned long' to 'unsigned long *' of greater size
+D:\DEVS\GameGuruConverter\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\Core\DBDLLCore.cpp(3160,45): warning C4312: 'type cast': conversion from 'unsigned long' to 'unsigned long *' of greater size
+D:\DEVS\GameGuruConverter\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\Core\DBDLLCore.cpp(3165,19): warning C4312: 'type cast': conversion from 'unsigned long' to 'unsigned long *' of greater size
+D:\DEVS\GameGuruConverter\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\Core\DBDLLCore.cpp(3172,5): warning C4312: 'type cast': conversion from 'unsigned long' to 'unsigned long *' of greater size
+D:\DEVS\GameGuruConverter\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\Core\DBDLLCore.cpp(3172,31): warning C4312: 'type cast': conversion from 'unsigned long' to 'unsigned long *' of greater size
+D:\DEVS\GameGuruConverter\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\Core\DBDLLCore.cpp(3173,8): warning C4312: 'type cast': conversion from 'unsigned long' to 'unsigned long *' of greater size
+D:\DEVS\GameGuruConverter\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\Core\DBDLLCore.cpp(3173,34): warning C4312: 'type cast': conversion from 'unsigned long' to 'unsigned long *' of greater size
+D:\DEVS\GameGuruConverter\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\Core\DBDLLCore.cpp(3176,6): warning C4312: 'type cast': conversion from 'unsigned long' to 'unsigned long *' of greater size
+D:\DEVS\GameGuruConverter\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\Core\DBDLLCore.cpp(3176,32): warning C4312: 'type cast': conversion from 'unsigned long' to 'unsigned long *' of greater size
+D:\DEVS\GameGuruConverter\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\Core\DBDLLCore.cpp(3185,8): warning C4312: 'type cast': conversion from 'unsigned long' to 'unsigned long *' of greater size
+D:\DEVS\GameGuruConverter\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\Core\DBDLLCore.cpp(3187,6): warning C4312: 'type cast': conversion from 'unsigned long' to 'unsigned long *' of greater size
+D:\DEVS\GameGuruConverter\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\Core\DBDLLCore.cpp(3187,31): warning C4312: 'type cast': conversion from 'unsigned long' to 'unsigned long *' of greater size
+D:\DEVS\GameGuruConverter\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\Core\DBDLLCore.cpp(3192,6): warning C4312: 'type cast': conversion from 'unsigned long' to 'unsigned long *' of greater size
+D:\DEVS\GameGuruConverter\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\Core\DBDLLCore.cpp(3201,8): warning C4312: 'type cast': conversion from 'unsigned long' to 'unsigned long *' of greater size
+D:\DEVS\GameGuruConverter\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\Core\DBDLLCore.cpp(3201,32): warning C4312: 'type cast': conversion from 'unsigned long' to 'unsigned long *' of greater size
+D:\DEVS\GameGuruConverter\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\Core\DBDLLCore.cpp(3213,13): warning C4312: 'type cast': conversion from 'unsigned long' to 'unsigned long *' of greater size
+D:\DEVS\GameGuruConverter\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\Core\DBDLLCore.cpp(3235,19): warning C4312: 'type cast': conversion from 'unsigned long' to 'unsigned long *' of greater size
+D:\DEVS\GameGuruConverter\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\Core\DBDLLCore.cpp(3239,5): warning C4312: 'type cast': conversion from 'unsigned long' to 'unsigned long *' of greater size
+D:\DEVS\GameGuruConverter\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\Core\DBDLLCore.cpp(3267,19): warning C4312: 'type cast': conversion from 'unsigned long' to 'unsigned long *' of greater size
+D:\DEVS\GameGuruConverter\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\Core\DBDLLCore.cpp(3271,5): warning C4312: 'type cast': conversion from 'unsigned long' to 'unsigned long *' of greater size
+D:\DEVS\GameGuruConverter\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\Core\DBDLLCore.cpp(3297,27): warning C4312: 'type cast': conversion from 'unsigned long' to 'unsigned long *' of greater size
+D:\DEVS\GameGuruConverter\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\Core\DBDLLCore.cpp(3299,17): warning C4312: 'type cast': conversion from 'unsigned long' to 'unsigned long *' of greater size
+D:\DEVS\GameGuruConverter\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\Core\DBDLLCore.cpp(3309,5): warning C4312: 'type cast': conversion from 'unsigned long' to 'unsigned long *' of greater size
+D:\DEVS\GameGuruConverter\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\Core\DBDLLCore.cpp(3339,27): warning C4312: 'type cast': conversion from 'unsigned long' to 'unsigned long *' of greater size
+D:\DEVS\GameGuruConverter\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\Core\DBDLLCore.cpp(3341,17): warning C4312: 'type cast': conversion from 'unsigned long' to 'unsigned long *' of greater size
+D:\DEVS\GameGuruConverter\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\Core\DBDLLCore.cpp(3353,5): warning C4312: 'type cast': conversion from 'unsigned long' to 'unsigned long *' of greater size
+D:\DEVS\GameGuruConverter\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\Core\DBDLLCore.cpp(3374,27): warning C4312: 'type cast': conversion from 'unsigned long' to 'unsigned long *' of greater size
+D:\DEVS\GameGuruConverter\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\Core\DBDLLCore.cpp(3390,17): warning C4312: 'type cast': conversion from 'unsigned long' to 'unsigned long *' of greater size
+D:\DEVS\GameGuruConverter\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\Core\DBDLLCore.cpp(3403,5): warning C4312: 'type cast': conversion from 'unsigned long' to 'unsigned long *' of greater size
+D:\DEVS\GameGuruConverter\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\Core\DBDLLCore.cpp(3422,26): warning C4312: 'type cast': conversion from 'unsigned long' to 'unsigned long *' of greater size
+D:\DEVS\GameGuruConverter\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\Core\DBDLLCore.cpp(3435,27): warning C4312: 'type cast': conversion from 'unsigned long' to 'unsigned long *' of greater size
+D:\DEVS\GameGuruConverter\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\Core\DBDLLCore.cpp(3438,16): warning C4312: 'type cast': conversion from 'unsigned long' to 'unsigned long *' of greater size
+D:\DEVS\GameGuruConverter\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\Core\DBDLLCore.cpp(3439,25): warning C4312: 'type cast': conversion from 'unsigned long' to 'LPSTR' of greater size
+D:\DEVS\GameGuruConverter\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\Core\DBDLLCore.cpp(3440,25): warning C4312: 'type cast': conversion from 'unsigned long' to 'LPSTR' of greater size
+D:\DEVS\GameGuruConverter\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\Core\DBDLLCore.cpp(3441,42): warning C4311: 'type cast': pointer truncation from 'LPSTR' to 'unsigned long'
+D:\DEVS\GameGuruConverter\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\Core\DBDLLCore.cpp(3441,42): warning C4302: 'type cast': truncation from 'LPSTR' to 'unsigned long'
+D:\DEVS\GameGuruConverter\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\Core\DBDLLCore.cpp(3444,32): warning C4312: 'type cast': conversion from 'unsigned long' to 'unsigned long *' of greater size
+D:\DEVS\GameGuruConverter\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\Core\DBDLLCore.cpp(3495,4): warning C4312: 'type cast': conversion from 'unsigned long' to 'unsigned long *' of greater size
+D:\DEVS\GameGuruConverter\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\Core\DBDLLCore.cpp(3500,28): warning C4312: 'type cast': conversion from 'unsigned long' to 'LPSTR' of greater size
+D:\DEVS\GameGuruConverter\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\Core\DBDLLCore.cpp(3501,28): warning C4312: 'type cast': conversion from 'unsigned long' to 'LPSTR' of greater size
+D:\DEVS\GameGuruConverter\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\Core\DBDLLCore.cpp(3507,28): warning C4311: 'type cast': pointer truncation from 'unsigned long *' to 'unsigned long'
+D:\DEVS\GameGuruConverter\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\Core\DBDLLCore.cpp(3507,28): warning C4302: 'type cast': truncation from 'unsigned long *' to 'unsigned long'
+D:\DEVS\GameGuruConverter\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\Core\DBDLLCore.cpp(3507,50): warning C4311: 'type cast': pointer truncation from 'LPSTR' to 'unsigned long'
+D:\DEVS\GameGuruConverter\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\Core\DBDLLCore.cpp(3507,50): warning C4302: 'type cast': truncation from 'LPSTR' to 'unsigned long'
+D:\DEVS\GameGuruConverter\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\Core\DBDLLCore.cpp(3509,13): warning C4311: 'type cast': pointer truncation from 'LPSTR' to 'unsigned long'
+D:\DEVS\GameGuruConverter\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\Core\DBDLLCore.cpp(3509,13): warning C4302: 'type cast': truncation from 'LPSTR' to 'unsigned long'
+D:\DEVS\GameGuruConverter\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\Core\DBDLLCore.cpp(3523,8): warning C4312: 'type cast': conversion from 'unsigned long' to 'unsigned long *' of greater size
+D:\DEVS\GameGuruConverter\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\Core\DBDLLCore.cpp(3524,5): warning C4312: 'type cast': conversion from 'unsigned long' to 'unsigned long *' of greater size
+D:\DEVS\GameGuruConverter\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\Core\DBDLLCore.cpp(3531,26): warning C4312: 'type cast': conversion from 'unsigned long' to 'unsigned long *' of greater size
+D:\DEVS\GameGuruConverter\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\Core\DBDLLCore.cpp(3538,24): warning C4312: 'type cast': conversion from 'unsigned long' to 'unsigned long *' of greater size
+D:\DEVS\GameGuruConverter\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\Core\DBDLLCore.cpp(3546,26): warning C4312: 'type cast': conversion from 'unsigned long' to 'unsigned long *' of greater size
+D:\DEVS\GameGuruConverter\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\Core\DBDLLCore.cpp(3554,21): warning C4312: 'type cast': conversion from 'unsigned long' to 'LPSTR' of greater size
+D:\DEVS\GameGuruConverter\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\Core\DBDLLCore.cpp(3576,4): warning C4312: 'type cast': conversion from 'unsigned long' to 'unsigned long *' of greater size
+D:\DEVS\GameGuruConverter\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\Core\DBDLLCore.cpp(3577,4): warning C4312: 'type cast': conversion from 'unsigned long' to 'unsigned long *' of greater size
+D:\DEVS\GameGuruConverter\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\Core\DBDLLCore.cpp(3588,22): warning C4312: 'type cast': conversion from 'unsigned long' to 'unsigned long *' of greater size
+D:\DEVS\GameGuruConverter\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\Core\DBDLLCore.cpp(3589,4): warning C4312: 'type cast': conversion from 'unsigned long' to 'unsigned long *' of greater size
+D:\DEVS\GameGuruConverter\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\Core\DBDLLCore.cpp(3600,22): warning C4312: 'type cast': conversion from 'unsigned long' to 'unsigned long *' of greater size
+D:\DEVS\GameGuruConverter\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\Core\DBDLLCore.cpp(3604,18): warning C4312: 'type cast': conversion from 'unsigned long' to 'unsigned long *' of greater size
+D:\DEVS\GameGuruConverter\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\Core\DBDLLCore.cpp(3605,4): warning C4312: 'type cast': conversion from 'unsigned long' to 'unsigned long *' of greater size
+D:\DEVS\GameGuruConverter\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\Core\DBDLLCore.cpp(3616,22): warning C4312: 'type cast': conversion from 'unsigned long' to 'unsigned long *' of greater size
+D:\DEVS\GameGuruConverter\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\Core\DBDLLCore.cpp(3617,4): warning C4312: 'type cast': conversion from 'unsigned long' to 'unsigned long *' of greater size
+D:\DEVS\GameGuruConverter\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\Core\DBDLLCore.cpp(3631,4): warning C4312: 'type cast': conversion from 'unsigned long' to 'unsigned long *' of greater size
+D:\DEVS\GameGuruConverter\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\Core\DBDLLCore.cpp(3636,19): warning C4312: 'type cast': conversion from 'unsigned long' to 'unsigned long *' of greater size
+D:\DEVS\GameGuruConverter\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\Core\DBDLLCore.cpp(3636,45): warning C4312: 'type cast': conversion from 'unsigned long' to 'unsigned long *' of greater size
+D:\DEVS\GameGuruConverter\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\Core\DBDLLCore.cpp(3641,19): warning C4312: 'type cast': conversion from 'unsigned long' to 'unsigned long *' of greater size
+D:\DEVS\GameGuruConverter\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\Core\DBDLLCore.cpp(3678,21): warning C4312: 'type cast': conversion from 'unsigned long' to 'LPSTR' of greater size
+D:\DEVS\GameGuruConverter\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\Core\DBDLLCore.cpp(3722,14): warning C4312: 'type cast': conversion from 'unsigned long' to 'LPSTR' of greater size
+D:\DEVS\GameGuruConverter\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\Core\DBDLLCore.cpp(3731,18): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned long', possible loss of data
+D:\DEVS\GameGuruConverter\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\Core\DBDLLCore.cpp(3741,9): warning C4311: 'type cast': pointer truncation from 'LPSTR' to 'unsigned long'
+D:\DEVS\GameGuruConverter\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\Core\DBDLLCore.cpp(3741,9): warning C4302: 'type cast': truncation from 'LPSTR' to 'unsigned long'
+D:\DEVS\GameGuruConverter\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\Core\DBDLLCore.cpp(3949,13): warning C4312: 'type cast': conversion from 'unsigned long' to 'LPSTR' of greater size
+D:\DEVS\GameGuruConverter\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\Core\DBDLLCore.cpp(3949,30): warning C4312: 'type cast': conversion from 'unsigned long' to 'LPSTR' of greater size
+D:\DEVS\GameGuruConverter\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\Core\DBDLLCore.cpp(3964,15): warning C4312: 'type cast': conversion from 'unsigned long' to 'LPSTR' of greater size
+D:\DEVS\GameGuruConverter\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\Core\DBDLLCore.cpp(3971,15): warning C4312: 'type cast': conversion from 'unsigned long' to 'LPSTR' of greater size
+D:\DEVS\GameGuruConverter\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\Core\DBDLLCore.cpp(3984,13): warning C4312: 'type cast': conversion from 'unsigned long' to 'LPSTR' of greater size
+D:\DEVS\GameGuruConverter\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\Core\DBDLLCore.cpp(3984,30): warning C4312: 'type cast': conversion from 'unsigned long' to 'LPSTR' of greater size
+D:\DEVS\GameGuruConverter\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\Core\DBDLLCore.cpp(4001,13): warning C4312: 'type cast': conversion from 'unsigned long' to 'LPSTR' of greater size
+D:\DEVS\GameGuruConverter\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\Core\DBDLLCore.cpp(4001,30): warning C4312: 'type cast': conversion from 'unsigned long' to 'LPSTR' of greater size
+D:\DEVS\GameGuruConverter\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\Core\DBDLLCore.cpp(4018,13): warning C4312: 'type cast': conversion from 'unsigned long' to 'LPSTR' of greater size
+D:\DEVS\GameGuruConverter\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\Core\DBDLLCore.cpp(4018,30): warning C4312: 'type cast': conversion from 'unsigned long' to 'LPSTR' of greater size
+D:\DEVS\GameGuruConverter\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\Core\DBDLLCore.cpp(4034,15): warning C4312: 'type cast': conversion from 'unsigned long' to 'LPSTR' of greater size
+D:\DEVS\GameGuruConverter\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\Core\DBDLLCore.cpp(4041,15): warning C4312: 'type cast': conversion from 'unsigned long' to 'LPSTR' of greater size
+D:\DEVS\GameGuruConverter\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\Core\DBDLLCore.cpp(4054,13): warning C4312: 'type cast': conversion from 'unsigned long' to 'LPSTR' of greater size
+D:\DEVS\GameGuruConverter\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\Core\DBDLLCore.cpp(4054,30): warning C4312: 'type cast': conversion from 'unsigned long' to 'LPSTR' of greater size
+D:\DEVS\GameGuruConverter\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\Core\DBDLLCore.cpp(4071,13): warning C4312: 'type cast': conversion from 'unsigned long' to 'LPSTR' of greater size
+D:\DEVS\GameGuruConverter\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\Core\DBDLLCore.cpp(4071,30): warning C4312: 'type cast': conversion from 'unsigned long' to 'LPSTR' of greater size
+D:\DEVS\GameGuruConverter\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\Core\DBDLLCore.cpp(4091,5): warning C4312: 'type cast': conversion from 'unsigned long' to 'unsigned long *' of greater size
+D:\DEVS\GameGuruConverter\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\Core\DBDLLCore.cpp(4091,45): warning C4312: 'type cast': conversion from 'unsigned long' to 'unsigned long *' of greater size
+D:\DEVS\GameGuruConverter\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\Core\DBDLLCore.cpp(4091,37): warning C4267: '=': conversion from 'size_t' to 'unsigned long', possible loss of data
+D:\DEVS\GameGuruConverter\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\Core\DBDLLCore.cpp(4092,5): warning C4312: 'type cast': conversion from 'unsigned long' to 'unsigned long *' of greater size
+D:\DEVS\GameGuruConverter\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\Core\DBDLLCore.cpp(4092,46): warning C4312: 'type cast': conversion from 'unsigned long' to 'unsigned long *' of greater size
+D:\DEVS\GameGuruConverter\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\Core\DBDLLCore.cpp(4092,38): warning C4267: '+=': conversion from 'size_t' to 'unsigned long', possible loss of data
+D:\DEVS\GameGuruConverter\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\Core\DBDLLCore.cpp(4095,5): warning C4312: 'type cast': conversion from 'unsigned long' to 'unsigned long *' of greater size
+D:\DEVS\GameGuruConverter\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\Core\DBDLLCore.cpp(4095,41): warning C4312: 'type cast': conversion from 'unsigned long' to 'LPSTR' of greater size
+D:\DEVS\GameGuruConverter\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\Core\DBDLLCore.cpp(4096,5): warning C4312: 'type cast': conversion from 'unsigned long' to 'unsigned long *' of greater size
+D:\DEVS\GameGuruConverter\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\Core\DBDLLCore.cpp(4096,41): warning C4312: 'type cast': conversion from 'unsigned long' to 'LPSTR' of greater size
+D:\DEVS\GameGuruConverter\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\Core\DBDLLCore.cpp(4097,5): warning C4312: 'type cast': conversion from 'unsigned long' to 'unsigned long *' of greater size
+D:\DEVS\GameGuruConverter\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\Core\DBDLLCore.cpp(4097,32): warning C4312: 'type cast': conversion from 'unsigned long' to 'unsigned long *' of greater size
+D:\DEVS\GameGuruConverter\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\Core\DBDLLCore.cpp(4098,9): warning C4311: 'type cast': pointer truncation from 'LPSTR' to 'unsigned long'
+D:\DEVS\GameGuruConverter\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\Core\DBDLLCore.cpp(4098,9): warning C4302: 'type cast': truncation from 'LPSTR' to 'unsigned long'
+D:\DEVS\GameGuruConverter\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\Core\DBDLLCore.cpp(4103,5): warning C4312: 'type cast': conversion from 'unsigned long' to 'unsigned long *' of greater size
+D:\DEVS\GameGuruConverter\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\Core\DBDLLCore.cpp(4103,44): warning C4312: 'type cast': conversion from 'unsigned long' to 'unsigned long *' of greater size
+D:\DEVS\GameGuruConverter\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\Core\DBDLLCore.cpp(4103,36): warning C4267: '=': conversion from 'size_t' to 'unsigned long', possible loss of data
+D:\DEVS\GameGuruConverter\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\Core\DBDLLCore.cpp(4108,6): warning C4312: 'type cast': conversion from 'unsigned long' to 'unsigned long *' of greater size
+D:\DEVS\GameGuruConverter\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\Core\DBDLLCore.cpp(4108,41): warning C4312: 'type cast': conversion from 'unsigned long' to 'LPSTR' of greater size
+D:\DEVS\GameGuruConverter\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\Core\DBDLLCore.cpp(4110,5): warning C4312: 'type cast': conversion from 'unsigned long' to 'unsigned long *' of greater size
+D:\DEVS\GameGuruConverter\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\Core\DBDLLCore.cpp(4110,33): warning C4312: 'type cast': conversion from 'unsigned long' to 'unsigned long *' of greater size
+D:\DEVS\GameGuruConverter\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\Core\DBDLLCore.cpp(4111,9): warning C4311: 'type cast': pointer truncation from 'LPSTR' to 'unsigned long'
+D:\DEVS\GameGuruConverter\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\Core\DBDLLCore.cpp(4111,9): warning C4302: 'type cast': truncation from 'LPSTR' to 'unsigned long'
+D:\DEVS\GameGuruConverter\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\Core\DBDLLCore.cpp(4115,25): warning C4312: 'type cast': conversion from 'unsigned long' to 'unsigned long *' of greater size
+D:\DEVS\GameGuruConverter\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\Core\DBDLLCore.cpp(4120,25): warning C4312: 'type cast': conversion from 'unsigned long' to 'unsigned long *' of greater size
+D:\DEVS\GameGuruConverter\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\Core\DBDLLCore.cpp(4786,48): warning C4312: 'reinterpret_cast': conversion from 'unsigned long' to 'char *' of greater size
+D:\DEVS\GameGuruConverter\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\Core\DBDLLCore.cpp(4786,9): warning C4311: 'reinterpret_cast': pointer truncation from 'char *' to 'unsigned long'
+D:\DEVS\GameGuruConverter\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\Core\DBDLLCore.cpp(4786,9): warning C4302: 'reinterpret_cast': truncation from 'char *' to 'unsigned long'
+D:\DEVS\GameGuruConverter\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\Core\DBDLLCore.cpp(4793,48): warning C4312: 'reinterpret_cast': conversion from 'unsigned long' to 'char *' of greater size
+D:\DEVS\GameGuruConverter\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\Core\DBDLLCore.cpp(4793,9): warning C4311: 'reinterpret_cast': pointer truncation from 'char *' to 'unsigned long'
+D:\DEVS\GameGuruConverter\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\Core\DBDLLCore.cpp(4793,9): warning C4302: 'reinterpret_cast': truncation from 'char *' to 'unsigned long'
+D:\DEVS\GameGuruConverter\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\Core\DBDLLCore.cpp(4996,27): warning C4312: 'type cast': conversion from 'unsigned long' to 'unsigned long *' of greater size
+D:\DEVS\GameGuruConverter\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\Core\DBDLLCore.cpp(4997,27): warning C4312: 'type cast': conversion from 'unsigned long' to 'unsigned long *' of greater size
+D:\DEVS\GameGuruConverter\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\Core\DBDLLCore.cpp(4998,35): warning C4312: 'type cast': conversion from 'unsigned long' to 'unsigned long *' of greater size
+D:\DEVS\GameGuruConverter\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\Core\DBDLLCore.cpp(5015,25): warning C4312: 'type cast': conversion from 'unsigned long' to 'unsigned long **' of greater size
+D:\DEVS\GameGuruConverter\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\Core\DBDLLCore.cpp(5020,21): warning C4312: 'type cast': conversion from 'unsigned long' to 'LPSTR' of greater size
+D:\DEVS\GameGuruConverter\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\Core\DBDLLCore.cpp(5021,41): warning C4267: '=': conversion from 'size_t' to 'unsigned long', possible loss of data
+D:\DEVS\GameGuruConverter\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\Core\DBDLLCore.cpp(5042,25): warning C4312: 'type cast': conversion from 'unsigned long' to 'unsigned long **' of greater size
+D:\DEVS\GameGuruConverter\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\Core\DBDLLCore.cpp(5089,35): warning C4312: 'type cast': conversion from 'unsigned long' to 'unsigned long *' of greater size
+D:\DEVS\GameGuruConverter\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\Core\DBDLLCore.cpp(5090,27): warning C4312: 'type cast': conversion from 'unsigned long' to 'unsigned long *' of greater size
+D:\DEVS\GameGuruConverter\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\Core\DBDLLCore.cpp(5091,35): warning C4312: 'type cast': conversion from 'unsigned long' to 'unsigned long *' of greater size
+D:\DEVS\GameGuruConverter\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\Core\DBDLLCore.cpp(5120,26): warning C4312: 'type cast': conversion from 'unsigned long' to 'unsigned long **' of greater size
+D:\DEVS\GameGuruConverter\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\Core\DBDLLCore.cpp(5124,30): warning C4312: 'type cast': conversion from 'unsigned long' to 'LPSTR' of greater size
+D:\DEVS\GameGuruConverter\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\Core\DBDLLCore.cpp(5128,27): warning C4244: 'initializing': conversion from '__int64' to 'unsigned long', possible loss of data
+D:\DEVS\GameGuruConverter\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\Core\DBDLLCore.cpp(5134,19): warning C4311: 'type cast': pointer truncation from 'LPSTR' to 'unsigned long'
+D:\DEVS\GameGuruConverter\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\Core\DBDLLCore.cpp(5134,19): warning C4302: 'type cast': truncation from 'LPSTR' to 'unsigned long'
+D:\DEVS\GameGuruConverter\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\Core\DBDLLCore.cpp(5164,7): warning C4312: 'type cast': conversion from 'unsigned long' to 'LPSTR' of greater size
+D:\DEVS\GameGuruConverter\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\Core\DBDLLCore.cpp(5171,26): warning C4312: 'type cast': conversion from 'unsigned long' to 'unsigned long **' of greater size
+D:\DEVS\GameGuruConverter\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\Core\DBDLLCore.cpp(5228,48): warning C4312: 'reinterpret_cast': conversion from 'unsigned long' to 'char *' of greater size
+D:\DEVS\GameGuruConverter\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\Core\DBDLLCore.cpp(5228,9): warning C4311: 'reinterpret_cast': pointer truncation from 'char *' to 'unsigned long'
+D:\DEVS\GameGuruConverter\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\Core\DBDLLCore.cpp(5228,9): warning C4302: 'reinterpret_cast': truncation from 'char *' to 'unsigned long'
+D:\DEVS\GameGuruConverter\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\Core\DBDLLCore.cpp(5281,26): warning C4312: 'type cast': conversion from 'unsigned long' to 'unsigned long *' of greater size
+D:\DEVS\GameGuruConverter\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\Core\DBDLLCore.cpp(5311,23): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned long', possible loss of data
+D:\DEVS\GameGuruConverter\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\Core\DBDLLCore.cpp(5326,23): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned long', possible loss of data
+D:\DEVS\GameGuruConverter\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\Core\DBDLLCore.cpp(5388,17): warning C4312: 'type cast': conversion from 'unsigned long' to 'LPSTR' of greater size
+D:\DEVS\GameGuruConverter\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\Core\DBDLLCore.cpp(5389,16): warning C4312: 'type cast': conversion from 'unsigned long' to 'LPSTR' of greater size
+D:\DEVS\GameGuruConverter\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\Core\DBDLLCore.cpp(5394,45): warning C4312: 'reinterpret_cast': conversion from 'unsigned long' to 'char *' of greater size
+D:\DEVS\GameGuruConverter\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\Core\DBDLLCore.cpp(5394,6): warning C4311: 'reinterpret_cast': pointer truncation from 'char *' to 'unsigned long'
+D:\DEVS\GameGuruConverter\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\Core\DBDLLCore.cpp(5394,6): warning C4302: 'reinterpret_cast': truncation from 'char *' to 'unsigned long'
+  DBDLLCoreInternal.cpp
+D:\DEVS\GameGuruConverter\GameGuru Core\SDK\DirectX\globstruct.h(340,60): warning C4267: 'argument': conversion from 'size_t' to 'DWORD', possible loss of data
+D:\DEVS\GameGuruConverter\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\Core\DBDLLCoreInternal.cpp(132,16): warning C4267: 'initializing': conversion from 'size_t' to 'DWORD', possible loss of data
+  DBDLLDisplay.cpp
+D:\DEVS\GameGuruConverter\GameGuru Core\SDK\DirectX\globstruct.h(340,60): warning C4267: 'argument': conversion from 'size_t' to 'DWORD', possible loss of data
+  DBDLLEXT.cpp
+D:\DEVS\GameGuruConverter\GameGuru Core\SDK\DirectX\globstruct.h(340,60): warning C4267: 'argument': conversion from 'size_t' to 'DWORD', possible loss of data
+  DBDLLExtCalls.cpp
+D:\DEVS\GameGuruConverter\GameGuru Core\SDK\DirectX\globstruct.h(340,60): warning C4267: 'argument': conversion from 'size_t' to 'DWORD', possible loss of data
+  DBDLLGDI.cpp
+D:\DEVS\GameGuruConverter\GameGuru Core\SDK\DirectX\globstruct.h(340,60): warning C4267: 'argument': conversion from 'size_t' to 'DWORD', possible loss of data
+D:\DEVS\GameGuruConverter\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\Core\DBDLLGDI.cpp(79,18): warning C4267: 'initializing': conversion from 'size_t' to 'DWORD', possible loss of data
+D:\DEVS\GameGuruConverter\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\Core\DBDLLGDI.cpp(124,19): warning C4267: 'initializing': conversion from 'size_t' to 'DWORD', possible loss of data
+D:\DEVS\GameGuruConverter\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\Core\DBDLLGDI.cpp(180,50): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  globstruct.cpp
+D:\DEVS\GameGuruConverter\GameGuru Core\SDK\DirectX\globstruct.h(340,60): warning C4267: 'argument': conversion from 'size_t' to 'DWORD', possible loss of data
+  CError.cpp
+D:\DEVS\GameGuruConverter\GameGuru Core\SDK\DirectX\globstruct.h(340,60): warning C4267: 'argument': conversion from 'size_t' to 'DWORD', possible loss of data
+  Generating Code...
+  DBDLLCore.vcxproj -> D:\DEVS\GameGuruConverter\GameGuru Core\Dark Basic Public Shared\Lib64\DBDLLCore.lib

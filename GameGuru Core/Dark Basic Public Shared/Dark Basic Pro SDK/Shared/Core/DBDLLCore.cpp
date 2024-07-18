@@ -59,17 +59,17 @@
 #include "CTextC.h"
 #include "CSystemC.h"
 #include "BulletPhysics.H"
-#include "BlitzTerrain.H"
-#include "DarkAI.H"
+//#include "BlitzTerrain.H"
+//#include "DarkAI.H"
 #include "SoftwareCulling.h"
-#include "DarkLUA.h"
+//#include "DarkLUA.h"
 #include "SimonReloaded.h"
 #ifdef PHOTONMP
 #include "PhotonCommands.h"
 #else
 #include "SteamCommands.h"
 #endif
-#include "LightMapper.h"
+//#include "LightMapper.h"
 #include "Enchancements.h"
 
 #ifdef VRTECH
@@ -2310,7 +2310,7 @@ DARKSDK DWORD InitDisplayEx(DWORD dwDisplayType, DWORD dwWidth, DWORD dwHeight, 
 	if ( g_pGlob->hWnd )
 	{
 		// override window handle with new winproc
-		SetWindowLong ( g_pGlob->hWnd, GWL_WNDPROC, (LONG)WindowProc );
+		SetWindowLong ( g_pGlob->hWnd, GWLP_WNDPROC, (LONG)WindowProc );
 	}
 	else
 	{

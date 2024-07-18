@@ -192,7 +192,7 @@ bool __cdecl CPUInfo::DoesCPUSupportCPUID ( void )
 	// Use SEH to determine CPUID presence
     __try
 	{
-        _asm
+        /*_asm
 		{
 
  			; we must push/pop the registers <<CPUID>> writes to, as the
@@ -211,7 +211,7 @@ bool __cdecl CPUInfo::DoesCPUSupportCPUID ( void )
 			pop ecx
 			pop ebx
 			pop eax
-        }
+        }*/
     }
 	__except ( 1 )
 	{
@@ -229,7 +229,7 @@ bool __cdecl CPUInfo::RetrieveCPUFeatures ( void )
 
 	__try
 	{
-		_asm
+		/*_asm
 		{
  			; we must push/pop the registers <<CPUID>> writes to, as the
 			; optimiser doesn't know about <<CPUID>>, and so doesn't expect
@@ -252,7 +252,7 @@ bool __cdecl CPUInfo::RetrieveCPUFeatures ( void )
 			pop ecx
 			pop ebx
 			pop eax
-		}
+		}*/
 	}
 	__except ( 1 )
 	{
@@ -277,12 +277,12 @@ bool __cdecl CPUInfo::RetrieveCPUFeatures ( void )
 		__try
 		{
 			// perform orps xmm0, xmm0
-			_asm
+			/*_asm
 			{
 				_emit 0x0f
 	    		_emit 0x56
 	    		_emit 0xc0	
-			}
+			}*/
 
 			// SSE FP capable processor
 			Features.HasSSEFP = true;
@@ -323,7 +323,7 @@ bool __cdecl CPUInfo::RetrieveCPUIdentity ( void )
 
 	__try
 	{
-		_asm
+		/*_asm
 		{
  			; we must push/pop the registers <<CPUID>> writes to, as the
 			; optimiser doesn't know about <<CPUID>>, and so doesn't expect
@@ -356,7 +356,7 @@ bool __cdecl CPUInfo::RetrieveCPUIdentity ( void )
 			pop ecx
 			pop ebx
 			pop eax
-		}
+		}*/
 	}
 	__except ( 1 )
 	{
@@ -405,7 +405,7 @@ bool __cdecl CPUInfo::RetrieveCPUCacheDetails ( void )
 		// L1 cache
 		__try
 		{
-			_asm
+			/*_asm
 			{
 				; we must push/pop the registers <<CPUID>> writes to, as the
 				; optimiser doesn't know about <<CPUID>>, and so doesn't expect
@@ -431,7 +431,7 @@ bool __cdecl CPUInfo::RetrieveCPUCacheDetails ( void )
 				pop ecx
 				pop ebx
 				pop eax
-			}
+			}*/
 		}
 		__except ( 1 )
 		{
@@ -451,7 +451,7 @@ bool __cdecl CPUInfo::RetrieveCPUCacheDetails ( void )
 	{
 		__try
 		{
-			_asm
+			/*_asm
 			{
  				; we must push/pop the registers <<CPUID>> writes to, as the
 				; optimiser doesn't know about <<CPUID>>, and so doesn't expect
@@ -477,7 +477,7 @@ bool __cdecl CPUInfo::RetrieveCPUCacheDetails ( void )
 				pop ecx
 				pop ebx
 				pop eax
-			}
+			}*/
 		}
 		__except ( 1 )
 		{
@@ -510,7 +510,7 @@ bool __cdecl CPUInfo::RetrieveClassicalCPUCacheDetails ( void )
 	{
 		__try
 		{
-			_asm
+			/*_asm
 			{
  				; we must push/pop the registers <<CPUID>> writes to, as the
 				; optimiser doesn't know about <<CPUID>>, and so doesn't expect
@@ -536,7 +536,7 @@ bool __cdecl CPUInfo::RetrieveClassicalCPUCacheDetails ( void )
 				pop ecx
 				pop ebx
 				pop eax
-			}
+			}*/
 		}
 		__except ( 1 )
 		{
@@ -692,7 +692,7 @@ bool __cdecl CPUInfo::RetrieveClassicalCPUClockSpeed ( void )
 
 	__try
 	{
-		_asm
+		/*_asm
 		{
 			mov eax, 0x80000000
 			mov ebx, CLASSICAL_CPU_FREQ_LOOP
@@ -700,7 +700,7 @@ bool __cdecl CPUInfo::RetrieveClassicalCPUClockSpeed ( void )
 			bsf ecx,eax
 			dec ebx
 			jnz Timer_Loop
-		}	
+		}	*/
 	}
 	__except ( 1 )
 	{
@@ -794,7 +794,7 @@ bool __cdecl CPUInfo::RetrieveCPUExtendedLevelSupport ( int CPULevelToCheck )
 		
 	__try
 	{
-		_asm
+		/*_asm
 		{
  			; we must push/pop the registers <<CPUID>> writes to, as the
 			; optimiser doesn't know about <<CPUID>>, and so doesn't expect
@@ -814,7 +814,7 @@ bool __cdecl CPUInfo::RetrieveCPUExtendedLevelSupport ( int CPULevelToCheck )
 			pop ecx
 			pop ebx
 			pop eax
-		}
+		}*/
 	}
 	__except ( 1 )
 	{
@@ -844,7 +844,7 @@ bool __cdecl CPUInfo::RetrieveExtendedCPUFeatures ( void )
 
 	__try
 	{
-		_asm
+		/*_asm
 		{
  			; we must push/pop the registers <<CPUID>> writes to, as the
 			; optimiser doesn't know about <<CPUID>>, and so doesn't expect
@@ -866,7 +866,7 @@ bool __cdecl CPUInfo::RetrieveExtendedCPUFeatures ( void )
 			pop ecx
 			pop ebx
 			pop eax
-		}
+		}*/
 	}
 	__except ( 1 )
 	{
@@ -905,7 +905,7 @@ bool __cdecl CPUInfo::RetrieveProcessorSerialNumber ( void )
 
 	__try
 	{
-		_asm
+		/*_asm
 		{
  			; we must push/pop the registers <<CPUID>> writes to, as the
 			; optimiser doesn't know about <<CPUID>>, and so doesn't expect
@@ -929,7 +929,7 @@ bool __cdecl CPUInfo::RetrieveProcessorSerialNumber ( void )
 			pop ecx
 			pop ebx
 			pop eax
-		}
+		}*/
 	}
 	__except ( 1 )
 	{
@@ -969,7 +969,7 @@ bool __cdecl CPUInfo::RetrieveCPUPowerManagement ( void )
 
 	__try
 	{
-		_asm
+		/*_asm
 		{
  			; we must push/pop the registers <<CPUID>> writes to, as the
 			; optimiser doesn't know about <<CPUID>>, and so doesn't expect
@@ -989,7 +989,7 @@ bool __cdecl CPUInfo::RetrieveCPUPowerManagement ( void )
 			pop ecx
 			pop ebx
 			pop eax
-		}
+		}*/
 	}
 	__except ( 1 )
 	{
@@ -1014,7 +1014,7 @@ bool __cdecl CPUInfo::RetrieveExtendedCPUIdentity ( void )
 
 	__try
 	{
-		_asm
+		/*_asm
 		{
  			; we must push/pop the registers <<CPUID>> writes to, as the
 			; optimiser doesn't know about <<CPUID>>, and so doesn't expect
@@ -1055,7 +1055,7 @@ bool __cdecl CPUInfo::RetrieveExtendedCPUIdentity ( void )
 			pop ecx
 			pop ebx
 			pop eax
-		}
+		}*/
 	}
 	__except ( 1 )
 	{
@@ -1419,7 +1419,7 @@ __int64	__cdecl CPUSpeed::GetCyclesDifference (DELAY_FUNC DelayFunction, unsigne
 	// Calculate the frequency of the CPU instructions.
 	__try 
 	{
-		_asm 
+		/*_asm
 		{
 			push uiParameter		; push parameter param
 			mov ebx, DelayFunction	; store func in ebx
@@ -1440,7 +1440,7 @@ __int64	__cdecl CPUSpeed::GetCyclesDifference (DELAY_FUNC DelayFunction, unsigne
 
 			mov edx1, edi			; edx2 = edi
 			mov eax1, esi			; eax2 = esi
-		}
+		}*/
 	}
 
 	// A generic catch-all just to be sure...

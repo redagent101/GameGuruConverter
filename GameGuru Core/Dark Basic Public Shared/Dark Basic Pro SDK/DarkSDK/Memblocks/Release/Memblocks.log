@@ -1,5 +1,0 @@
-﻿  CMemblocks.cpp
-D:\DEV\GameGuruConverter - reduced - x64\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\Shared\Memblocks\CMemblocks.cpp(331,15): warning C4101: 'wfx': unreferenced local variable
-  CError.cpp
-  Generating Code...
-  Memblocks.vcxproj -> D:\DEV\GameGuruConverter - reduced - x64\GameGuru Core\Dark Basic Public Shared\Lib\Memblocks.lib

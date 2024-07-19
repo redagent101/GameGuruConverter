@@ -1,0 +1,46 @@
+﻿  AIThread.cpp
+  Beacon.cpp
+  CollisionTree.cpp
+  Container.cpp
+  DarkAI.cpp
+  DBPro Functions.cpp
+  DynamicPathFinder.cpp
+  Entity.cpp
+D:\DEV\GameGuruConverter - reduced\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\DarkSDKMore\DarkAI\Entity.cpp(591,31): warning C4018: '<': signed/unsigned mismatch
+  EntityBuffer.cpp
+  EntityThread.cpp
+  Grid.cpp
+  Hero.cpp
+  LeeThread.cpp
+  LUAScript.cpp
+  Path.cpp
+  PathFinderAdvanced.cpp
+D:\DEV\GameGuruConverter - reduced\GameGuru Core\Dark Basic Public Shared\Dark Basic Pro SDK\DarkSDKMore\DarkAI\PathFinderAdvanced.cpp(1322,24): warning C4018: '<': signed/unsigned mismatch
+  Polygon.cpp
+  StateAttack.cpp
+  StateAttackFromCover.cpp
+  StateChaseAttack.cpp
+  Generating Code...
+  Compiling...
+  StateDefend.cpp
+  StateDiving.cpp
+  StateFallBack.cpp
+  StateGoToDest.cpp
+  StateIdle.cpp
+  StateInvestigate.cpp
+  StateLeaping.cpp
+  StateManual.cpp
+  StatePatrol.cpp
+  StatePeekFromCorner.cpp
+  StateSearchArea.cpp
+  StateSet.cpp
+  StateStrafeAttack.cpp
+  StateWaitInCover.cpp
+  Team.cpp
+  TeamController.cpp
+  TreeFace.cpp
+  TreeNode.cpp
+  World.cpp
+  Zone.cpp
+  Generating Code...
+  DarkMind.vcxproj -> D:\DEV\GameGuruConverter - reduced\GameGuru Core\Dark Basic Public Shared\Lib\DarkAI.lib

@@ -8,7 +8,7 @@ extern bool g_bCascadeQuitFlag;
 
 // Main command headers
 #include "CGfxC.h"
-//#include "CObjectsC.h"
+#include "CObjectsC.h"
 #include "CCameraC.h"
 #include "CImageC.h"
 #include "cVectorC.h"
